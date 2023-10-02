@@ -73,7 +73,6 @@ Assuming that gender identities are equivalent across languages may lead to a si
 
 _Additional resources on reporting on trans communities around the world:_
 - [A guide to reporting on gender minorities in the Singaporean context](https://ellis-island.sg/teeline) from Ellis Ng
-- How To Report Stories Involving Transgender People Accurately, Responsibly And Ethically
 
 </div>
 
@@ -137,7 +136,7 @@ Write normally and use pronouns appropriately in stories about trans people. It 
 There is never a reason to explain the use of standard _they/them_, _he/him,_ or _she/her_ in a story. When a source uses less common pronouns, it’s acceptable to have a quick, appositive phrase explaining them: _Taylor, who uses ze/hir pronouns, attended the event_ (see [_neopronouns_](#neopronouns)).
 
 ### gender-neutral pronouns { #gender-neutral-pronouns updated="2023-08-25" }
-Use this language to describe _they/them_ and other gender-neutral pronouns, such as _ze/hir_ and _ey/em_. 
+Use this language to describe _they/them_ and other gender-neutral nepronouns, such as _ze/hir_ and _ey/em_. 
 
 <div class="readmore">
 
