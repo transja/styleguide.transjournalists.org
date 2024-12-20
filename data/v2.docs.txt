@@ -1,6 +1,6 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2024–11-21" }
+# Stylebook and Coverage Guide { #intro updated="2024–12-06" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -34,7 +34,7 @@ To support this style guide and the Trans Journalists Association's other work t
 
 <hr>
 
-# Editorial Best Practices { #section-best-practices updated="2023-08-25" }
+# Editorial Best Practices { #section-best-practices updated="2024-12-06" }
 
 Trans people — not their parents, children, friends, colleagues, or critics — should be at the heart of stories written about them. Trans people aren’t necessarily experts about gender or trans issues broadly, but their experiences and perspectives are critical to nuanced, thoughtful coverage. In too many cases, trans people are featured as characters in a story whose framing is built around cisgender sources’ voices and assumptions — where trans people feature at all. 
 
@@ -363,7 +363,6 @@ _Examples of stories that note uncertain or evolving information on gender ident
 </div>
 
 ### practicing trauma-informed reporting { #trauma-informed-reporting updated="2024-06-17" }
-
 Trauma-informed journalism practices are particularly relevant while covering violence against trans people or the deaths of trans people. But they may be relevant to any sensitive story.  Review journalism resources and best practices on trauma-informed reporting and interviewing, and consult them when covering trans people or stories.
 
 <div class="readmore">
@@ -447,7 +446,6 @@ _Additional resource on statehouse coverage:_
 </div>
 
 ### bathroom restrictions { #bathrooms updated="2024-11-21" }
-
 Opponents of trans inclusion have sought to ban transgender people from restrooms and other facilities that align with their gender identity. These policies usually require people to use facilities consistent with their “[biological sex](#biological-sex),” defined as their _legal sex_ or as their _assigned sex at birth_, or not defined at all. 
 
 Consult the text of a bill, law, or policy; be as specific as possible about who is affected and how these categories are defined (or not defined). Bans that restrict manner of dress, for example, may ultimately be primarily enforced against transgender people, but may also have broader legal implications and splash effects. This context is important.
