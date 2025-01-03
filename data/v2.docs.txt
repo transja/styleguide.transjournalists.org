@@ -924,13 +924,15 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 - [¿Por Qué Debería Decírtelo?: Una Guía Para Hacer Reportajes Menos Extractivos](https://ethics.journalism.wisc.edu/por-que-deberia-decirtelo/) from the University of Wisconsin–Madison Center for Journalism Ethics
 - [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press [requires login]
 
-### trans-relevant style guides { #read-style-guides updated="2023-08-25" }
+### trans-relevant style guides { #read-style-guides updated="2024-12-20" }
 
+- [A Guide to the Guides: What to Know About LGBTQ Style Guides for Journalists](https://ewa.org/data-research-tips/a-guide-to-the-guides-what-to-know-about-lgbtq-style-guides-for-journalists) from the Education Writers Association
 - [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide) from the Columbia Journalism School’s Dart Center
 - [Reporting Guides](https://najanewsroom.com/reporting-guides/) from the Indigenous Journalists Association 
 - [NABJ Style Guide](https://nabjonline.org/news-media-center/styleguide/) from the National Association of Black Journalists
 - [NAHJ Cultural Competence Handbook](https://nahj.org/nahj-cultural-competence-handbook/) from the National Association of Hispanic Journalists
 - [Disability Language Style Guide](https://ncdj.org/style-guide/) from the National Center on Disability and Journalism
+- [Accurately Using the Language of Disabilities](https://ewa.org/educated-reporter/how-to-avoid-dehumanizing-people-with-disabilities) from the Education Writers Association
 - [NLGJA Stylebook on LGBTQ+ Terminology](https://www.nlgja.org/stylebook/) from NLGJA: The Association of LGBTQ+ Journalists
 - [Media Guide: Covering the Intersex Community](https://live-interact-advocates.pantheonsite.io/wp-content/uploads/2017/01/INTERSEX-MEDIAGUIDE-interACT.pdf) from InterACT
 
