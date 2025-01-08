@@ -482,6 +482,34 @@ _Additional resources:_
 
 </div>
 
+### reporting on nondiscrimination laws related to trans people { #trans-nondiscrimination-law updated="2024-08-25" }
+Nondiscrimination laws in the U.S. inconsistently reference gender identity and gender expression. There is no federal law that explicitly bans discrimination based on gender identity. Some municipalities or states specifically list gender identity and its expression as protected categories; most do not. This means that an action may explicitly violate nondiscrimination laws in one jurisdiction, but its illegality may depend on judges’ interpretations just two counties over.
+
+Generally, nondiscrimination laws refer to access to health care, housing, employment, education, or “public accommodations” such as [restaurants and other businesses](https://www.ada.gov/topics/title-iii/). They may cover either public or private entities, especially if they are open to the public or receiving public funding. Many aspects of private life are not covered by nondiscrimination laws. Transgender people, and [especially trans people of color](https://ustranssurvey.org/download-reports/), report high rates of discrimination and hostility in many of the areas overseen by nondiscrimination laws.
+
+The interactions between municipal, state, and federal laws can be opaque. To complicate matters further, the U.S. has a variety of court and executive processes that all may elect to interpret laws differently, even when they use identical language. This means that the application of nondiscrimination law may vary between regions overseen by different U.S. circuit or district courts, between state agencies, and between presidential administrations. 
+
+Increasingly, states have passed laws that advocates have called discriminatory or have formally challenged in the courts for potentially violating nondiscrimination laws. When reporting on policies, laws, or individual actions, it’s important to understand the relevant laws at all levels — municipal, state, and federal — and take care to speak to attorneys about the evolving legal landscape. 
+
+It’s also important to be precise about potential language distinctions between [_sex-based discrimination_](#def-sex-discrimination) and [_gender-based discrimination_](#def-gender-discrimination) because that definition has been a live legal issue for more than a decade. At the federal level, the 2020 Supreme Court ruling in [_Bostock v. Clayton County_](https://www.aclu.org/news/civil-liberties/how-the-impact-of-bostock-v-clayton-county-on-lgbtq-rights-continues-to-expand) interpreted gender identity and sexual orientation as types of _sex-based discrimination_ in employment. This bars employment discrimination against transgender people specifically. Federal trial and appellate courts have [consistently ruled](https://www.eeoc.gov/wysk/examples-court-decisions-supporting-coverage-lgbt-related-discrimination-under-title-vii) that _sex-based discrimination_ includes discrimination against transgender people in contexts beyond employment.
+
+But there is also [ongoing litigation](https://19thnews.org/2022/08/block-title-ix-rules-lgbtq-case-bostock-clayton-county/) over whether that interpretation should extend beyond employment discrimination, and if so, where and how far. Since 2020, for instance, regional U.S. Court of Appeal Circuits across the country have made [conflicting](https://www.aclu.org/cases/metropolitan-school-district-of-martinsville-v-a-c) [rulings](https://northcarolinalawreview.org/wp-content/uploads/sites/5/2024/02/Thomas_FinalforPrint.pdf) on whether _sex-based discrimination_ includes gender when applied to federally funded public education programs. 
+
+See [_general guidance for reporting on anti-trans laws and policies_](https://styleguide.transjournalists.org/#anti-trans-policies) for additional resources and [_gender-_](#def-gender-discrimination) and [_sex-based discrimination_](#def-sex-discrimination) entries for definitions.
+
+<div class="readmore">
+
+_Legal resources:_
+- [LGBT Equality Map](https://www.lgbtmap.org/equality-maps/non_discrimination_laws)
+- [Types of federal judges](https://www.uscourts.gov/about-federal-courts/types-federal-judges) from U.S. Courts
+
+_Data on anti-trans discrimination:_
+- [2008 National Transgender Discrimination Survey](https://www.documentcloud.org/documents/25457957-2008-2009-national-transgender-discrimination-survey/#document/p1)
+- [2015 U.S. Transgender Survey](https://www.documentcloud.org/documents/25457959-2015-usts-full-report/#document/p1)
+- [2015 U.S. Transgender Survey demographic groups](https://www.documentcloud.org/documents/?q=%2Bdata_Subtopics%3A%22Demographics%22)
+
+</div>
+
 ## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
 ### reporting on crimes involving trans people { #crimes updated="2024-02-24" }
 When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate names, gender identities, and pronouns for [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the information given in a police report or press release is correct. 
@@ -761,6 +789,24 @@ Typically refers to someone who wears clothing associated with the “opposite�
 
 ### differences of sexual development, disorders of sexual development (n.) { #def-dsd updated="2023-08-25" }
 Often abbreviated _DSD_. These are medical terms used to describe intersex variations. Some intersex people use _DSD_ in reference to themselves, but the term is not universally accepted by intersex people.
+
+### discrimination, gender-based (n.) { #def-gender-discrimination updated="2024-08-25" }
+_Gender-based discrimination_ is language used to describe discrimination under a law that broadly treats _transgender identity_, _gender identity_, or _gender expression_ as protected categories. As with other phrases, like [_same-sex marriage_](#same-sex-marriage), _sex_ and _gender_ are not necessarily interchangeable terms in a legal context.
+
+State and municipal nondiscrimination laws vary widely. Some state and local governments explicitly bar discrimination on the basis of gender identity or expression. If a state or local nondiscrimination law refers more specifically to _gender_ (e.g. the Washington Law Against Discrimination or NYC Human Rights Law’s Title 8), _gender-based discrimination_ may be more accurate than the related term [_sex-based discrimination_](#trans-nondiscrimination-law).
+
+When discussing discrimination and nondiscrimination law, be sure to clarify the language and definitions relevant to the jurisdiction in question. 
+
+Outside of legal reporting, use less technical language to describe policies. Focus more on their tangible effects: _anti-trans laws, bills restricting bathroom use,_ etc. If someone is alleging discrimination based on transgender identity, describe the specific allegations wherever possible, rather than relying on legal language.
+
+### discrimination, sex-based (n.) { #def-sex-discrimination updated="2024-08-25" } 
+Discrimination “on the basis of sex” or “because of sex” is found in various U.S. federal laws that prohibit discrimination in employment, education, health care, and other areas of public life. The employment discrimination prohibitions in Title VII of the Civil Rights Act of 1964 and the education discrimination prohibitions in Title IX of the Education Amendments of 1972 are some of the most commonly relevant statutes for reporting on trans rights.
+
+The differences between “sex” and “gender” _in common usage_ are discussed at length in this guide. But the phrase _sex-based discrimination_, in the context of legal journalism covering U.S. federal law, is an accurate umbrella term for discrimination on the basis of _gender identity_ or _expression_, as well as _assigned sex at birth_, _biological sex,_ and/or _legal sex._ This is because federal laws prohibit discrimination “because of sex” or “on the basis of sex” and do not specifically name gender as a protected category. Federal courts have [widely](https://www.eeoc.gov/wysk/examples-court-decisions-supporting-coverage-lgbt-related-discrimination-under-title-vii) held that the federal laws prohibiting discrimination because of sex extend to discrimination that occurs because someone is transgender.
+
+Some state and local laws may call out _gender-based discrimination_ discretely; in those cases, _sex-based discrimination_ and _gender-based discrimination_ are not necessarily interchangeable terms (see [_gender-based discrimination_](#def-gender-discrimination)). 
+
+Outside of legal reporting, use less technical language to describe policies. Focus more on their tangible effects: _anti-trans laws, bills restricting bathroom use,_ etc. If someone is alleging discrimination based on transgender identity, describe the specific allegations wherever possible, rather than relying on legal language.
 
 ### gender binary (n.) { #def-gender-binary updated="2023-08-25" }
 A cultural and societal classification system that sorts everyone into a male/female binary based on sex assigned at birth and equates male sex with masculinity and female sex with femininity.
