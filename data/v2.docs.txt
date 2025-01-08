@@ -482,7 +482,7 @@ _Additional resources:_
 
 </div>
 
-### reporting on nondiscrimination laws related to trans people { #trans-nondiscrimination-law updated="2024-08-25" }
+### reporting on nondiscrimination laws related to trans people { #trans-nondiscrimination-law updated="2025-01-08" }
 Nondiscrimination laws in the U.S. inconsistently reference gender identity and gender expression. There is no federal law that explicitly bans discrimination based on gender identity. Some municipalities or states specifically list gender identity and its expression as protected categories; most do not. This means that an action may explicitly violate nondiscrimination laws in one jurisdiction, but its illegality may depend on judges’ interpretations just two counties over.
 
 Generally, nondiscrimination laws refer to access to health care, housing, employment, education, or “public accommodations” such as [restaurants and other businesses](https://www.ada.gov/topics/title-iii/). They may cover either public or private entities, especially if they are open to the public or receiving public funding. Many aspects of private life are not covered by nondiscrimination laws. Transgender people, and [especially trans people of color](https://ustranssurvey.org/download-reports/), report high rates of discrimination and hostility in many of the areas overseen by nondiscrimination laws.
@@ -790,7 +790,7 @@ Typically refers to someone who wears clothing associated with the “opposite�
 ### differences of sexual development, disorders of sexual development (n.) { #def-dsd updated="2023-08-25" }
 Often abbreviated _DSD_. These are medical terms used to describe intersex variations. Some intersex people use _DSD_ in reference to themselves, but the term is not universally accepted by intersex people.
 
-### discrimination, gender-based (n.) { #def-gender-discrimination updated="2024-08-25" }
+### discrimination, gender-based (n.) { #def-gender-discrimination updated="2025-01-01" }
 _Gender-based discrimination_ is language used to describe discrimination under a law that broadly treats _transgender identity_, _gender identity_, or _gender expression_ as protected categories. As with other phrases, like [_same-sex marriage_](#same-sex-marriage), _sex_ and _gender_ are not necessarily interchangeable terms in a legal context.
 
 State and municipal nondiscrimination laws vary widely. Some state and local governments explicitly bar discrimination on the basis of gender identity or expression. If a state or local nondiscrimination law refers more specifically to _gender_ (e.g. the Washington Law Against Discrimination or NYC Human Rights Law’s Title 8), _gender-based discrimination_ may be more accurate than the related term [_sex-based discrimination_](#trans-nondiscrimination-law).
@@ -799,7 +799,7 @@ When discussing discrimination and nondiscrimination law, be sure to clarify the
 
 Outside of legal reporting, use less technical language to describe policies. Focus more on their tangible effects: _anti-trans laws, bills restricting bathroom use,_ etc. If someone is alleging discrimination based on transgender identity, describe the specific allegations wherever possible, rather than relying on legal language.
 
-### discrimination, sex-based (n.) { #def-sex-discrimination updated="2024-08-25" } 
+### discrimination, sex-based (n.) { #def-sex-discrimination updated="2025-01-01" } 
 Discrimination “on the basis of sex” or “because of sex” is found in various U.S. federal laws that prohibit discrimination in employment, education, health care, and other areas of public life. The employment discrimination prohibitions in Title VII of the Civil Rights Act of 1964 and the education discrimination prohibitions in Title IX of the Education Amendments of 1972 are some of the most commonly relevant statutes for reporting on trans rights.
 
 The differences between “sex” and “gender” _in common usage_ are discussed at length in this guide. But the phrase _sex-based discrimination_, in the context of legal journalism covering U.S. federal law, is an accurate umbrella term for discrimination on the basis of _gender identity_ or _expression_, as well as _assigned sex at birth_, _biological sex,_ and/or _legal sex._ This is because federal laws prohibit discrimination “because of sex” or “on the basis of sex” and do not specifically name gender as a protected category. Federal courts have [widely](https://www.eeoc.gov/wysk/examples-court-decisions-supporting-coverage-lgbt-related-discrimination-under-title-vii) held that the federal laws prohibiting discrimination because of sex extend to discrimination that occurs because someone is transgender.
