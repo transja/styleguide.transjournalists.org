@@ -1,10 +1,10 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2024–12-06" }
+# Stylebook and Coverage Guide { #intro updated="2025–03-03" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
-This guide is meant to provide a foundation for covering trans issues with accuracy and nuance, and it addresses many common language and reporting difficulties. But it is by no means comprehensive: The English lexicon of gender, sex, and sexuality is dynamic and constantly contested.
+This guide is meant to provide a foundation for covering trans people with accuracy and nuance, and it addresses many common language and reporting difficulties. But it is by no means comprehensive: The English lexicon of gender, sex, and sexuality is dynamic and constantly contested.
 
 Trans communities are also internally diverse. The words some trans people use to describe themselves might differ from or even contradict the guidance given here. Where our stylebook is silent, honor the way someone speaks about themself whenever possible, and let that inform your writing.
 
@@ -24,7 +24,7 @@ _Last published [[date:DATETIME_FULL]]_
 
 <div class="donate">
 
-To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans issues, please consider donating.
+To support this style guide and the Trans Journalists Association's other work to improve the coverage of trans communities, please consider donating.
 
 <button type="button"><a href="https://bit.ly/tja_donate" target="_blank">Support Us</a></button>
 
@@ -36,7 +36,7 @@ To support this style guide and the Trans Journalists Association's other work t
 
 # Editorial Best Practices { #section-best-practices updated="2024-12-06" }
 
-Trans people — not their parents, children, friends, colleagues, or critics — should be at the heart of stories written about them. Trans people aren’t necessarily experts about gender or trans issues broadly, but their experiences and perspectives are critical to nuanced, thoughtful coverage. In too many cases, trans people are featured as characters in a story whose framing is built around cisgender sources’ voices and assumptions — where trans people feature at all. 
+Trans people — not their parents, children, friends, colleagues, or critics — should be at the heart of stories written about them. Trans people aren’t necessarily experts about gender or trans communities broadly, but their experiences and perspectives are critical to nuanced, thoughtful coverage. In too many cases, trans people are featured as characters in a story whose framing is built around cisgender sources’ voices and assumptions — where trans people feature at all. 
 
 ### self-identification is paramount { #self-id updated="2023-08-25" }
 The best way to determine a person's gender, name, and pronouns is to ask them directly. Police reports, public documents, or statements from family members can incorrectly identify someone. Social media profiles can be one clue, but they can also be misleading, outdated,  incomplete, or falsified.
@@ -53,8 +53,8 @@ _Additional resources:_
 
 </div>
 
-### talk to trans people about trans people { #talk-to-trans-people updated="2023-08-25" }
-When reporting a story about trans issues, reporters should interview trans people who have relevant knowledge, experience, and expertise. Trans people’s voices should be centered in this coverage; they should speak, not just be spoken about. Researchers who study trans communities are sometimes trans themselves.
+### talk to trans people about trans people { #talk-to-trans-people updated="2025-03-03" }
+When reporting a story about issues that affect trans communities, reporters should interview trans people who have relevant knowledge, experience, and expertise. Trans people’s voices should be centered in this coverage; they should speak, not just be spoken about. Researchers who study trans communities are sometimes trans themselves.
 
 ### talk to trans people about things besides trans people { #source-diversity updated="2023-08-25" }
 Gender identity is only one part of a person, and not the only thing that defines who they are; trans people often have professional or academic expertise on subjects unrelated to their gender. Incorporate trans people into your source base and interview them for stories across beats, just as you would interview people with a variety of backgrounds and perspectives. Reporters who work to cultivate a gender-diverse sourcing pool will produce stronger reporting, regardless of topic.
@@ -407,7 +407,7 @@ _Additional resources on reporting on suicide:_
 
 ## Anti-Trans Laws and Policies { #subsection-laws-policies updated="2024-11-21" }
 
-### general guidance { #anti-trans-policies updated="2024-11-21" }
+### general guidance { #anti-trans-policies updated="2025-04-09" }
 Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict gender-affirming care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
 
 Covering the legal landscape for trans people in the U.S. requires careful research. Anti-trans laws may interact in nuanced ways with [health care regulations](https://19thnews.org/2022/10/transgender-healthcare-adults-limit-restrict/), [nondiscrimination laws](https://www.nbcnews.com/feature/nbc-out/can-you-be-fired-being-gay-answer-depends-largely-where-n962711), [state constitutions](https://apnews.com/article/sports-gun-politics-legislature-montana-supreme-court-1561e0746b14717ad05eb3e1b646a292), and [other areas of legal interest](https://www.pbs.org/newshour/show/anti-trans-laws-face-legal-roadblocks-in-several-states). Many policies that affect trans and gender-nonconforming people are implemented via [executive orders](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy) or influenced by [preexisting court proceedings](https://apnews.com/article/transgender-bathroom-bill-sports-genderaffirming-care-e120cede83dab3ef81eb7918a8e34604), and some have been either [upheld](https://19thnews.org/2023/07/tennessee-trans-court-gender-affirming/) or [struck down](https://www.nbcnews.com/nbc-out/out-politics-and-policy/state-laws-targeting-lgbtq-rights-new-foe-federal-judges-rcna92374) after novel legal challenges. Decisions made by other policymaking bodies — like [school boards](https://edsource.org/2023/battle-over-transgender-student-privacy-isnt-over-bills-author-says/689039), [state agencies](https://www.texastribune.org/2022/05/20/trans-texas-child-abuse-investigations/), and [athletics organizations](https://www.forbes.com/sites/tylerroush/2023/07/14/cycling-bans-transgender-women-athletes-here-are-the-other-major-sports-with-similar-restrictions/?sh=16bd54a82567) — may have equally wide-ranging effects. 
@@ -418,11 +418,12 @@ Given this complexity, strong coverage of anti-trans policies should give reader
 
 When writing about state or federal legislation, include information like what stage a bill is at, whether it is likely to pass, how it would or could be enforced, and what courts have said about similar laws. It should also include the broader context of such legislation and policies: why these bills are being proposed, what other bills have been proposed (in prior sessions or other states), how related legislation is faring elsewhere, and how these legislative proposals may overlap with other executive actions in a state. Even policies that are ultimately struck down can have [newsworthy](https://www.news-leader.com/story/news/local/2023/04/23/statewide-emergency-rule-has-trans-residents-considering-leaving-mo/70121867007/), [disruptive](https://www.theguardian.com/world/2023/jun/06/lgbtq-rights-trans-gay-texas-florida-north-carolina) [effects](https://news.stlpublicradio.org/government-politics-issues/2023-05-21/transgender-missourians-say-this-legislative-session-made-them-refugees-in-their-own-state) on trans people and the communities in which they live. 
 
-Misinformation can come from both opponents and proponents of anti-trans laws. Do not reprint verifiably false statements about specific bills and their consequences, or about trans issues more generally, without inline fact-checking. And as stated elsewhere in this guide, prioritize speaking to the groups or individuals targeted most directly by a given policy (gender-affirming health care providers, trans children and their parents, etc.).
+Misinformation can come from both opponents and proponents of anti-trans laws. Do not reprint verifiably false statements about specific bills and their consequences, or about trans people more generally, without inline fact-checking. And as stated elsewhere in this guide, prioritize speaking to the groups or individuals targeted most directly by a given policy (gender-affirming health care providers, trans children and their parents, etc.).
 
 <div class="readmore">
 
-_Additional resources on bills affecting trans people:_
+_Additional resources on bills, policies, and orders affecting trans people:_
+- [Covering executive orders that target trans Americans](https://www.transjournalists.org/2025-executive-orders-journalism-resources/) from the Trans Journalists Association
 - [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
 - [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
 - [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
@@ -463,7 +464,7 @@ _Additional resources:_
 
 </div>
 
-### reporting on U.S. trans health care bans { #health-care-bans updated="2024-11-21" }
+### reporting on U.S. trans health care bans { #health-care-bans updated="2025-04-09" }
 U.S. state lawmakers and other elected officials have sought to implement increasingly stringent restrictions on gender-affirming medical care, especially [but not exclusively](https://www.axios.com/2023/03/29/transgender-health-care-adult-ban-bills) for minors. Newsrooms of all sizes and in all media markets should be prepared to cover these policies, even if they lack dedicated LGBTQ+ beat reporters. 
 
 General best practices for reporting on health care-related topics are applicable here: Do not uncritically quote false or unproven statements, do not quote non-experts on technical topics as if they were experts, and be careful not to over-rely on anecdotal evidence, especially where an individual’s experience runs contrary to reliable statistics or broad scientific consensus. 
@@ -473,6 +474,7 @@ Responsible reporting on gender-affirming care for trans minors should also cont
 <div class="readmore">
 
 _Additional resources:_
+- [Understanding the reports on health care for trans youth](https://www.transjournalists.org/our-commitment-to-trans-journalism-in-2025/) from the Trans Journalists Association
 - [Combating Anti-LGBTQ+ Pseudoscience](https://www.splcenter.org/captain) from Southern Poverty Law Center
 - [The rise of anti-trans bills in the US](https://www.reuters.com/graphics/USA-HEALTHCARE/TRANS-BILLS/zgvorreyapd/) from Reuters
 - [Getting it right: Reporting on laws that prohibit gender-affirming care for minors](https://healthjournalism.org/blog/2023/03/getting-it-right-reporting-on-laws-that-prohibit-gender-affirming-care-for-minors/) from Association of Health Care Journalists
@@ -754,7 +756,7 @@ In crowd shots, avoid identifying specific people or groups as trans unless the 
 For video stories, where possible, reporters should avoid using the specific portions of a clip that include deadnaming or misgendering. This includes archival footage of a trans person prior to their coming out. Alternatively, let listeners or viewers know the person is being misgendered or deadnamed and censor the words, as with a curse word or other protected personal information. Do not “bleep” the tape; drop out the sound instead. See [_deadnames_](undefined)_._
 
 ### use file photos with care { #photo-relevance updated="2023-08-25" }
-Use careful judgment when deciding who or what to center in file photography or B-roll. People depicted in file photos used to illustrate stories about trans issues sometimes become [representative of transness broadly](https://www.poynter.org/ethics-trust/2020/the-atlantic-tried-artistically-show-gender-dysphoria-cover-instead-damaged-trust-transgender-readers/). Where this could be a concern, such as in stories about violence trans people face in a specific town or region, more conceptual imagery may be appropriate: photos of pride flags or B-roll of a statehouse for a daily news story, or an illustration or collage for an editorial or longform piece. Avoid reusing hyper-specific images, such as portraits of a trans person taken for a feature story on that person, as generic art for other trans-related stories.
+Use careful judgment when deciding who or what to center in file photography or B-roll. People depicted in file photos used to illustrate stories about trans communities sometimes become [representative of transness broadly](https://www.poynter.org/ethics-trust/2020/the-atlantic-tried-artistically-show-gender-dysphoria-cover-instead-damaged-trust-transgender-readers/). Where this could be a concern, such as in stories about violence trans people face in a specific town or region, more conceptual imagery may be appropriate: photos of pride flags or B-roll of a statehouse for a daily news story, or an illustration or collage for an editorial or longform piece. Avoid reusing hyper-specific images, such as portraits of a trans person taken for a feature story on that person, as generic art for other trans-related stories.
 
 Vague or misleading cutlines can lead viewers to draw inaccurate conclusions about who or what a file image depicts. If a given image is reused as a file photo later, be sure that the file photo cutline retains all necessary context. 
 
