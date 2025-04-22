@@ -1,6 +1,6 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2025–03-03" }
+# Stylebook and Coverage Guide { #intro updated="2025–04-22" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -38,20 +38,13 @@ To support this style guide and the Trans Journalists Association's other work t
 
 Trans people — not their parents, children, friends, colleagues, or critics — should be at the heart of stories written about them. Trans people aren’t necessarily experts about gender or trans communities broadly, but their experiences and perspectives are critical to nuanced, thoughtful coverage. In too many cases, trans people are featured as characters in a story whose framing is built around cisgender sources’ voices and assumptions — where trans people feature at all. 
 
-### self-identification is paramount { #self-id updated="2023-08-25" }
-The best way to determine a person's gender, name, and pronouns is to ask them directly. Police reports, public documents, or statements from family members can incorrectly identify someone. Social media profiles can be one clue, but they can also be misleading, outdated,  incomplete, or falsified.
+### self-identification is paramount { #self-id updated="2025-04-22" }
+The best way to determine a person's gender, name, and pronouns is to ask them directly. Police reports, public documents, or statements from family members can incorrectly identify someone. Social media profiles can be one clue, but they can also be misleading, outdated,  incomplete, or falsified. Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#subsection-breaking-news) topical guide). 
 
-### what to do if you can’t obtain self-identification { #no-self-id updated="2023-11-15" }
-If it is not possible to obtain self-identification directly from an individual, reference publicly available information and explain where someone’s identity is unclear (e.g. a social media post by an individual’s friend that contradicts a police report). Avoid identifying someone in a specific way based on, for instance, [joke pronouns](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html) (like “[Prosecute/Fauci](https://twitter.com/elonmusk/status/1601894132573605888?s=20&t=aLV0JH6LGhKMYKYed2T9Fw)”) or unspecific comments. Journalists have also mistakenly identified people as transgender or nonbinary, only for those individuals to later clarify that they are cisgender. 
+### ‘trans issues’ is a euphemism { #trans-issues updated="2024-11-20" } 
+Like _culture war_, the phrase _trans issues_ is common shorthand in political reporting, standing in for the myriad ways in which trans people are politicized. But as government efforts to single out trans people ramp up, journalists should avoid collapsing anti-trans sentiment, laws and policies — as sweeping as the national effort to redefine “sex” in American law, and as narrow as punitive measures directed at specific law firms for their work with trans clients — into a single catch-all. 
 
-Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#subsection-breaking-news) topical guide).
-
-<div class="readmore">
-
-_Additional resources:_
-- [Tips for navigating uncertain gender identity during breaking news](https://www.transjournalists.org/article-self-identification-explainer/) from the Trans Journalists Association
-
-</div>
+Reporting on anti-trans politics and policies benefits from clarity and specificity; euphemisms like _trans issues_ provide neither. Consider: What is the _trans issue_ at play in a given story? Civil rights protections? Health care access? Access to valid identity documents? Let the answer to that question guide your language. Lay out the stakes.
 
 ### talk to trans people about trans people { #talk-to-trans-people updated="2025-03-03" }
 When reporting a story about issues that affect trans communities, reporters should interview trans people who have relevant knowledge, experience, and expertise. Trans people’s voices should be centered in this coverage; they should speak, not just be spoken about. Researchers who study trans communities are sometimes trans themselves.
@@ -129,10 +122,15 @@ While asking for and obtaining confirmation of a trans person’s deadname may b
 
 Never knowingly deadname a trans person in posthumous news coverage, including obituaries (see [_obituaries_](#obituaries)). 
 
-### when past news coverage deadnames/misgenders a trans person { #past-coverage-errors updated="2023-08-25" }
-Do not proactively issue corrections to previously published stories when someone in the story changes their name or gender identity unless that individual requests it. 
+### when past news coverage deadnames/misgenders a trans person { #past-coverage-errors updated="2025-04-22" }
+Do not _proactively_ update previously published stories when someone quoted or referenced in a story changes their name or gender identity. _Only_ make such changes to published material under _one of two conditions_: 
 
-If someone’s current gender or name is incorrectly identified in a large amount of contemporaneous news coverage due to a reporting error, correct the error as with any other. In the correction, it may be appropriate to briefly mention that the person’s name, pronouns, or gender have been incorrectly identified in past articles, but do not restate the incorrect information. Take care to correctly identify the person’s gender going forward. 
+**1: The person was identified incorrectly** _**when the story was published**_**, due to a reporting error.** If this occurs, update the story with accurate information as soon as possible and issue a correction note. In the correction, it may be appropriate to briefly mention that the person’s name, pronouns, or gender have been incorrectly identified in past reporting. Do not restate the incorrect information in the correction itself. 
+
+**2: The person was identified correctly when the story was published, but they have since changed their identity** _**and**_ **have asked that the story be retroactively updated**_**.**_ If your newsroom receives a name/pronoun update request from a source, honor it in accordance with your newsroom’s own standards and to the extent your news outlet is able to update previously published content. Do _not_ add a correction note, but a brief editor’s note explaining that outdated information has been changed may be added for transparency: _This report’s references to Jane Doe have been updated._ 
+
+### when metadata or content management system assets deadname/misgender a trans person { #metadata-errors updated="2025-04-22" }
+Web editors should be mindful that non-story backend assets, like taxonomy tags and alt-text, may contain deadnames or other outdated information when a source transitions after publication. If these can be easily updated in the content management system, this is best practice: For example, redirect the tag “John Doe” to “Jane Doe,” and tag all future coverage only with “Jane Doe.” This applies even if a source or individual has not reached out directly, as they may not know these assets exist.
 
 ### when sources deadname or misgender a trans person { #deadnaming updated="2023-08-25" }
 When a friend, family member, public figure, document, or public record misgenders or deadnames a trans person, do not publish the quote verbatim. 
@@ -265,10 +263,10 @@ If it is necessary to quote someone using this term, be clear about whether they
 ### male-bodied, female-bodied { #male-female-bodied updated="2023-08-25" }
 Avoid _male-bodied_ and _female-bodied,_ reductive terms often deployed as pejorative references to a trans person’s assigned sex (see [_assigned sex at birth_](#asab)). Male and female bodies come in all shapes and sizes with various primary and secondary sex characteristics.
 
-### mutilation, sterilization { #mutilation-sterilization updated="2023-08-25" }
-Opponents of gender-affirming medical care falsely caricature transition-related surgeries as _mutilation_ and hormone therapy as _sterilization_; they also may use other loaded terms suggestive of medical abuse.
+### mutilation, sterilization { #mutilation-sterilization updated="2025-04-18" }
+Opponents of transgender medical care falsely caricature transition-related surgeries as _mutilation_ and hormone therapy as _sterilization_; they also may use other loaded terms suggestive of medical abuse.
 
-It is inaccurate to equate hormone therapy with _sterilization_; it [does not](https://www.nbcnews.com/feature/nbc-out/transgender-fertility-study-sheds-light-testosterone-s-impact-n1182636) [guarantee infertility](https://www.thedailybeast.com/hormone-replacement-therapy-wont-make-trans-women-permanently-infertile-study-finds). _Mutilation_ in particular is commonly used in relation to gender-affirming care for minors — even though for young children, such care is generally limited to social transition and puberty blockers, not cross-sex hormones. Surgical treatment is [exceedingly rare](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) for trans youth (see [_reporting on U.S. trans health care bans_](#health-care-bans)). Avoid repeating _mutilation_ rhetoric without fact-checking.
+It is inaccurate to equate hormone therapy with _sterilization_; it [does not](https://www.nbcnews.com/feature/nbc-out/transgender-fertility-study-sheds-light-testosterone-s-impact-n1182636) [guarantee infertility](https://www.thedailybeast.com/hormone-replacement-therapy-wont-make-trans-women-permanently-infertile-study-finds). _Mutilation_ in particular is commonly used in relation to transgender health care for minors — even though for young children, such care is generally limited to social transition and puberty blockers, not cross-sex hormones. Surgical treatment is [exceedingly rare](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) for trans youth (see [_reporting on U.S. trans health care bans_](#health-care-bans)). Avoid repeating _mutilation_ rhetoric without fact-checking.
 
 ### opposite sex, opposite gender { #opposite-sex-gender updated="2023-08-25" }
 Avoid this language, which reinforces the gender binary and inaccurately positions men/males and women/females as opposites, rather than merely different genders and sexes.
@@ -296,10 +294,10 @@ Do not conflate simply existing as an openly trans person, or speaking publicly 
 
 There are political activists for trans rights, and there’s no reason not to identify them as such. However, take care to limit that identification to those who are actually engaged in political action or self-describe as activists, rather than those who simply hold strong beliefs about being trans. 
 
-### TERF, trans-exclusionary radical feminist, gender-critical feminist { #gender-critical updated="2023-08-25" }
+### TERF, trans-exclusionary radical feminist, gender-critical feminist { #gender-critical updated="2025-04-18" }
 _Trans-exclusionary radical feminism_ refers to an ideology that asserts people cannot identify as a gender other than their gender assigned at birth and should not be classified as such socially or legally.
 
- Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights. They may participate in contemporary movements against gender-affirming health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
+ Proponents of _trans-exclusionary radical feminism_ often label transfeminine people as predatory men, claim that transmasculine people transition to escape sexism, and argue that trans rights come at the expense of women’s rights. They may participate in contemporary movements against transgender health care for adults and children, trans women’s participation in women’s sports, and other topics related to trans inclusion.
 
 _Trans-exclusionary radical feminist_, a person who shares these beliefs, is often abbreviated as _TERF_. The _TERF_ label is claimed by some and rejected by others as pejorative; some instead have adopted the related term _gender-critical feminist_. Some critics of _trans-exclusionary radical feminism_ argue that the ideology follows an outdated framework of feminism that both the mainstream movement and academic field rejected decades ago, and therefore _TERFs_ should not be referred to as “feminists.”
 
@@ -347,6 +345,9 @@ _Examples of stories that address uncertain gender identity:_
 
 </div>
 
+### what to do if you can’t obtain self-identification { #no-self-id updated="2025-04-22" }
+If it is not possible to obtain self-identification directly from an individual, reference publicly available information and explain where someone’s identity is unclear (e.g. a social media post by an individual’s friend that contradicts a police report). Avoid identifying someone in a specific way based on, for instance, [joke pronouns](https://www.washingtonpost.com/outlook/please-stop-making-jokes-about-gender-pronouns-when-people-tell-you-theirs/2019/12/11/8f6a063a-0a4d-11ea-8397-a955cd542d00_story.html) (like “[Prosecute/Fauci](https://twitter.com/elonmusk/status/1601894132573605888?s=20&t=aLV0JH6LGhKMYKYed2T9Fw)”) or unspecific comments. Journalists have also mistakenly identified people as transgender or nonbinary, only for those individuals to later clarify that they are cisgender. 
+
 ### write around outdated or false details { #explaining-gender-id updated="2024-04-01" }
 In situations where a deceased trans person’s identity is clear, do not reprint their deadname posthumously or misgender them, even in direct quotes, for any reason. The common convention of printing a person’s birth name alongside their name at the time of their death (Jane Doe, born John Doe, died Thursday) is profoundly disrespectful when used to refer to a trans person. In written quotes, use brackets to replace outdated names or pronouns, with additional context as required. 
 
@@ -374,10 +375,10 @@ _Additional resources on trauma-informed reporting:_
 
 </div>
 
-### publishing identifying information about trans children { #trans-children updated="2023-08-25" }
+### publishing identifying information about trans children { #trans-children updated="2025-04-18" }
 Transgender children are at the center of many legislative debates across the U.S. Journalists should prioritize speaking to affected children and their families while reporting on this topic, but should take precautions to ensure their safety. 
 
-Consider carefully the consequences of publishing trans minors’ full names, their likenesses, or other personal information, even if they are testifying publicly on legislation or live openly as trans in their community. Publicizing this information may place children or their families at risk, especially in states that criminalize gender-affirming care (for visuals, see [_obscure information that could endanger sources_](#photo-safety)). 
+Consider carefully the consequences of publishing trans minors’ full names, their likenesses, or other personal information, even if they are testifying publicly on legislation or live openly as trans in their community. Publicizing this information may place children or their families at risk, especially in states that criminalize transgender medical care (for visuals, see [_obscure information that could endanger sources_](#photo-safety)). 
 
 Look to the [Society of Professional Journalists Code of Ethics’](https://www.spj.org/ethicscode.asp) call to “minimize harm.” Explain to children and families how they would be identified, and talk through the [process and potential consequences of speaking on the record](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/).
 
@@ -407,8 +408,8 @@ _Additional resources on reporting on suicide:_
 
 ## Anti-Trans Laws and Policies { #subsection-laws-policies updated="2024-11-21" }
 
-### general guidance { #anti-trans-policies updated="2025-04-09" }
-Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict gender-affirming care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
+### general guidance { #anti-trans-policies updated="2025-04-22" }
+Examine what the text of a bill or law actually says, rather than simply restating what its authors or supporters say about it — and look for spillover effects. A bill to restrict transgender medical care, for example, may also prevent cisgender people who take hormones from accessing their medication. Ask relevant experts to interpret the legal language where necessary. Do not assume that comments made during legislative hearings about a bill are accurate reflections of its contents. 
 
 Covering the legal landscape for trans people in the U.S. requires careful research. Anti-trans laws may interact in nuanced ways with [health care regulations](https://19thnews.org/2022/10/transgender-healthcare-adults-limit-restrict/), [nondiscrimination laws](https://www.nbcnews.com/feature/nbc-out/can-you-be-fired-being-gay-answer-depends-largely-where-n962711), [state constitutions](https://apnews.com/article/sports-gun-politics-legislature-montana-supreme-court-1561e0746b14717ad05eb3e1b646a292), and [other areas of legal interest](https://www.pbs.org/newshour/show/anti-trans-laws-face-legal-roadblocks-in-several-states). Many policies that affect trans and gender-nonconforming people are implemented via [executive orders](https://www.theguardian.com/us-news/2022/jun/15/biden-executive-order-anti-trans-laws-and-conversion-therapy) or influenced by [preexisting court proceedings](https://apnews.com/article/transgender-bathroom-bill-sports-genderaffirming-care-e120cede83dab3ef81eb7918a8e34604), and some have been either [upheld](https://19thnews.org/2023/07/tennessee-trans-court-gender-affirming/) or [struck down](https://www.nbcnews.com/nbc-out/out-politics-and-policy/state-laws-targeting-lgbtq-rights-new-foe-federal-judges-rcna92374) after novel legal challenges. Decisions made by other policymaking bodies — like [school boards](https://edsource.org/2023/battle-over-transgender-student-privacy-isnt-over-bills-author-says/689039), [state agencies](https://www.texastribune.org/2022/05/20/trans-texas-child-abuse-investigations/), and [athletics organizations](https://www.forbes.com/sites/tylerroush/2023/07/14/cycling-bans-transgender-women-athletes-here-are-the-other-major-sports-with-similar-restrictions/?sh=16bd54a82567) — may have equally wide-ranging effects. 
 
@@ -418,7 +419,7 @@ Given this complexity, strong coverage of anti-trans policies should give reader
 
 When writing about state or federal legislation, include information like what stage a bill is at, whether it is likely to pass, how it would or could be enforced, and what courts have said about similar laws. It should also include the broader context of such legislation and policies: why these bills are being proposed, what other bills have been proposed (in prior sessions or other states), how related legislation is faring elsewhere, and how these legislative proposals may overlap with other executive actions in a state. Even policies that are ultimately struck down can have [newsworthy](https://www.news-leader.com/story/news/local/2023/04/23/statewide-emergency-rule-has-trans-residents-considering-leaving-mo/70121867007/), [disruptive](https://www.theguardian.com/world/2023/jun/06/lgbtq-rights-trans-gay-texas-florida-north-carolina) [effects](https://news.stlpublicradio.org/government-politics-issues/2023-05-21/transgender-missourians-say-this-legislative-session-made-them-refugees-in-their-own-state) on trans people and the communities in which they live. 
 
-Misinformation can come from both opponents and proponents of anti-trans laws. Do not reprint verifiably false statements about specific bills and their consequences, or about trans people more generally, without inline fact-checking. And as stated elsewhere in this guide, prioritize speaking to the groups or individuals targeted most directly by a given policy (gender-affirming health care providers, trans children and their parents, etc.).
+Misinformation can come from both opponents and proponents of anti-trans laws. Do not reprint verifiably false statements about specific bills and their consequences, or about trans people more generally, without inline fact-checking. And as stated elsewhere in this guide, prioritize speaking to the groups or individuals targeted most directly by a given policy (providers of transgender health care, trans children and their parents, etc.).
 
 <div class="readmore">
 
@@ -428,15 +429,7 @@ _Additional resources on bills, policies, and orders affecting trans people:_
 - [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
 - [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
 - [Political extremism: 5 ways journalists can improve coverage and mitigate harm](https://www.pressclubinstitute.org/2023/02/02/political-extremism-5-ways-journalists-can-improve-coverage-and-reduce-harm/) from National Press Club Journalism Institute
-
-_Additional resources on legislation in 2023:_
-- [Anti-trans bills have doubled since 2022. Our map shows where states stand.](https://www.washingtonpost.com/dc-md-va/2023/04/17/anti-trans-bills-map/) from The Washington Post
-- [From drag bans to sports restrictions, 75 anti-LGBTQ bills have become law in 2023](https://www.nbcnews.com/nbc-out/out-politics-and-policy/75-anti-lgbtq-bills-become-law-2023-rcna124250) from NBC News
-- [Over 30 new LGBTQ education laws are in effect as students go back to school](https://www.nbcnews.com/nbc-out/out-politics-and-policy/30-new-lgbtq-education-laws-are-effect-students-go-back-school-rcna101897) from NBC News
-- [The rise of anti-trans bills in the US](https://www.reuters.com/graphics/USA-HEALTHCARE/TRANS-BILLS/zgvorreyapd/) from Reuters
-- [Many transgender health bills came from a handful of far-right interest groups, AP finds](https://apnews.com/article/transgender-health-model-legislation-5cc4a7cb4ab69150f670d06fd0f361ab) from The Associated Press
-- [How a Few Stories of Regret Fuel the Push to Restrict Gender Transition Care](https://www.nytimes.com/2023/05/16/us/politics/transgender-care-detransitioners.html) from The New York Times
-- [Inside The Cottage Industry Of ‘Experts’ Paid To Defend Anti-Trans Laws](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513) from Huffington Post
+- [Investigating Federal and State Actions Against Trans Youth](https://ewa.org/how-to-cover-the-story/how-the-conservative-reframing-of-civil-rights-affects-trans-youth) from the Education Writers Association
 
 _Additional resource on statehouse coverage:_
 - [Learning the Game](https://www.ncsl.org/legislative-staff/civics-education/learning-the-game) from the National Conference of State Legislatures
@@ -465,11 +458,11 @@ _Additional resources:_
 </div>
 
 ### reporting on U.S. trans health care bans { #health-care-bans updated="2025-04-09" }
-U.S. state lawmakers and other elected officials have sought to implement increasingly stringent restrictions on gender-affirming medical care, especially [but not exclusively](https://www.axios.com/2023/03/29/transgender-health-care-adult-ban-bills) for minors. Newsrooms of all sizes and in all media markets should be prepared to cover these policies, even if they lack dedicated LGBTQ+ beat reporters. 
+U.S. state lawmakers and other elected officials have sought to implement increasingly stringent restrictions on transgender medical care, especially [but not exclusively](https://www.axios.com/2023/03/29/transgender-health-care-adult-ban-bills) for minors. Newsrooms of all sizes and in all media markets should be prepared to cover these policies, even if they lack dedicated LGBTQ+ beat reporters. 
 
 General best practices for reporting on health care-related topics are applicable here: Do not uncritically quote false or unproven statements, do not quote non-experts on technical topics as if they were experts, and be careful not to over-rely on anecdotal evidence, especially where an individual’s experience runs contrary to reliable statistics or broad scientific consensus. 
 
-Responsible reporting on gender-affirming care for trans minors should also contextualize the number of children actually thought to be receiving this care. Though data is limited, [surveys](https://www.ustranssurvey.org/reports) [generally show](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) most trans adults do not report having received any form of transition-related medical care, and similarly [small numbers of trans youth](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) have received transition-related medical care, with only a fraction of those cases involving surgery. See also [_detransition, retransition_](undefined)_._
+Responsible reporting on health care for trans minors should also contextualize the number of children actually thought to be receiving this care. Though data is limited, [surveys](https://www.ustranssurvey.org/reports) [generally show](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) most trans adults do not report having received any form of transition-related medical care, and similarly [small numbers of trans youth](https://www.factcheck.org/2023/05/scicheck-young-children-do-not-receive-medical-gender-transition-treatment/) have received transition-related medical care, with only a fraction of those cases involving surgery. See also [_detransition, retransition_](undefined)_._
 
 <div class="readmore">
 
@@ -531,10 +524,10 @@ _Additional resources on criminal justice coverage best practices:_
 
 </div>
 
-### reporting on incarcerated trans people in the U.S. { #incarcerated-trans-people updated="2023-08-25" }
+### reporting on incarcerated trans people in the U.S. { #incarcerated-trans-people updated="2025-04-18" }
 Transgender people who are incarcerated are some of the most politicized and most vulnerable populations in prisons and jails. [Academic research](https://www.cnn.com/2021/06/23/us/trans-women-incarceration/index.html), [surveys](https://www.protectedandserved.org/2022-report), and [federal data reports](https://www.thenation.com/article/society/trans-solitary-confinement/) consistently show that trans people behind bars face disproportionate rates of physical, verbal, and sexual violence from staff and fellow prisoners. 
 
-The basic needs of incarcerated transgender people, like [gender-appropriate underwear](https://www.vox.com/policy-and-politics/2020/8/7/21355867/steuben-county-new-york-trans-prison-policy) or [gender-affirming health care](https://www.npr.org/2022/10/25/1130146647/transgender-inmates-gender-affirming-health-care-lawsuits-prison), are often [treated as luxuries](https://boltsmag.org/new-jersey-trans-women-solitary/). Housing assignments in particular have become controversial. National legislation, known as the Prison Rape Elimination Act, provides guidelines for corrections officials across the country, including that officials must consider transgender prisoners’ gendered housing preferences when making placement decisions. But such guidelines are [largely](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436) [ignored](https://www.huffpost.com/entry/trans-rights-prison-amber-kim_n_6557ce06e4b0998d69a049d4). 
+The basic needs of incarcerated transgender people, like [gender-appropriate underwear](https://www.vox.com/policy-and-politics/2020/8/7/21355867/steuben-county-new-york-trans-prison-policy) or [transgender medical care](https://www.npr.org/2022/10/25/1130146647/transgender-inmates-gender-affirming-health-care-lawsuits-prison), are often [treated as luxuries](https://boltsmag.org/new-jersey-trans-women-solitary/). Housing assignments in particular have become controversial. National legislation, known as the Prison Rape Elimination Act, provides guidelines for corrections officials across the country, including that officials must consider transgender prisoners’ gendered housing preferences when making placement decisions. But such guidelines are [largely](https://www.nbcnews.com/feature/nbc-out/transgender-women-are-nearly-always-incarcerated-men-s-putting-many-n1142436) [ignored](https://www.huffpost.com/entry/trans-rights-prison-amber-kim_n_6557ce06e4b0998d69a049d4). 
 
 Reporting on these issues requires extreme care. The violence and abuse transgender people face in prisons and jails is often only addressed [after legal actions](https://apnews.com/article/baltimore-jail-transgender-woman-abuse-lawsuit-49126208b48ba78bd9a002a29275249d) have been filed or lawsuits have [succeeded in court](https://news.stlpublicradio.org/health-science-environment/2019-12-20/illinois-state-prisons-must-overhaul-medical-care-for-transgender-prisoners-judge-rules). 
 
@@ -564,6 +557,27 @@ _Additional resources:_
 
 ## Health Care { #subsection-health-care updated="2023-08-25" }
 
+### language around transgender health care { #gender-affirming-care updated="2025-04-22" }
+Health care that trans people seek out as part of their gender transition is, simply, a type of _medical care._ Longer phrases like _gender-affirming care_ are acceptable, as they may provide needed specificity and are widely used by medical providers. Phrasings like _transgender medical care_ or _transgender health care_ may be clearer for a lay audience. Shorthands like _gender health care_, _trans health care_, and _gender care_ are acceptable for headlines or where space is tight. 
+
+_Transgender health care_ is a very broad term, encompassing everything from family therapy to medication to surgery. Journalists should strive to use the clearest language possible, including the medically accurate names of surgeries and treatments where necessary. If describing a specific person’s medical care, use the language they use for themself in direct quotes where possible; avoid asking grossly invasive questions or including unnecessary detail for shock value. 
+
+Not all transgender people experience gender dysphoria or have a gender dysphoria diagnosis; transgender people seek varying and individualized forms of gender-related medical care. [Many never receive gender health care of any kind](https://www.kff.org/report-section/kff-the-washington-post-trans-survey-trans-in-america/) due to cost, access, or personal choice. People of all identities, [not just trans people](https://pubmed.ncbi.nlm.nih.gov/37285414/), pursue various forms of cosmetic or medical care that may be related to their gender.
+
+The actual treatments, medications, and surgeries transgender patients receive are often identical to what cisgender patients receive; however, insurance billing processes, hospital policies, or state laws may classify the same medical care as _gender-related_ for one patient but not for another. Many anti-trans laws and policies rely on this classification, restricting care on the basis of the patient’s gender identity alone. It is not always clear or intuitive how anti-trans laws determine what care patients can receive, and under what circumstances.
+
+<div class="readmore">
+
+_Additional resources:_
+- [The 19th Explains: What is gender-affirming care?](https://19thnews.org/2023/06/everything-to-know-about-gender-affirming-care/) from The 19th*
+- [What medical treatments do transgender youth get?](https://apnews.com/article/science-health-mental-ce8f5a9ee53768af03c3c65d5331045b) from The Associated Press
+- [6 key takeaways from the Post-KFF survey of transgender Americans](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) from The Washington Post
+- [Gender-affirming care has a long history in the US – and not just for transgender people](https://theconversation.com/gender-affirming-care-has-a-long-history-in-the-us-and-not-just-for-transgender-people-201752) from The Conversation
+- [Gender-affirming care for trans youth: Separating medical facts from misinformation](https://www.cbsnews.com/news/trans-youth-gender-affirming-health-care-misinformation/) from CBS News
+- [How to Report on Healthcare for Trans Youth Accurately and Sensitively](https://www.theopennotebook.com/2023/07/25/how-to-report-on-healthcare-for-trans-youth-accurately-and-sensitively/) from The Open Notebook
+
+</div>
+
 ### gender-neutral terms in health coverage { #neutral-health-terms updated="2023-08-25" }
 With a few exceptions related to reproductive health (see [_when to use gendered language_](#gendered-medical-language)), medically accurate language referring to humans and their anatomy is sufficiently gender-neutral for journalistic writing. Many English nouns are neutral; do not seek out a neologism (_fireperson_ instead of _fireman_) over a simpler gender-neutral word or phrase (_firefighter_). 
 
@@ -579,10 +593,10 @@ It is sometimes important to use more gendered language. For instance, if discus
 ### consider whether protected health information is necessary to a story { #necessary-health-info updated="2023-08-25" }
 When writing about transgender people, consider whether it’s necessary or appropriate to ask about their genitals, hormones, or medical procedures. Is the purpose of these questions to shed light on the importance of medical care and barriers to access? Or are they being asked for the sake of adding a line about someone’s transition in a story that doesn’t require it? Would similar information about a cisgender person’s health or body be relevant to the story? See also [_asking irrelevant questions_](#interview-etiquette)_._
 
-### detransition, retransition { #detransition-retransition updated="2023-08-25" }
-_Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may, but does not always, involve pausing or changing course in gender-affirming medical care, choosing to use a previous name, or legally changing identification cards or other documents. 
+### detransition, retransition { #detransition-retransition updated="2025-04-18" }
+_Detransition_ has several meanings. Most commonly, _detransitioning_ describes a person’s choice to stop their gender transition. This may, but does not always, involve pausing or changing course in transgender health care, choosing to use a previous name, or legally changing identification cards or other documents. 
 
-Social and medical transition is a complicated, deeply personal topic, and there is no consistent definition of what qualifies as _detransitioning_. For instance, many who stop receiving gender-affirming medical care do not consider themselves to have _detransitioned_ and still consider themselves trans. Others view _detransition_ as a full “undoing” of transition, and may seek medical care to reverse masculinizing or feminizing treatments. [_Desistance_](https://www.theatlantic.com/family/archive/2018/07/desistance/564560/), rather than _detransition_, is sometimes used to mean some or all of these choices.
+Social and medical transition is a complicated, deeply personal topic, and there is no consistent definition of what qualifies as _detransitioning_. For instance, many who stop receiving transgender health care do not consider themselves to have _detransitioned_ and still consider themselves trans. Others view _detransition_ as a full “undoing” of transition, and may seek medical care to reverse masculinizing or feminizing treatments. [_Desistance_](https://www.theatlantic.com/family/archive/2018/07/desistance/564560/), rather than _detransition_, is sometimes used to mean some or all of these choices.
 
 But detransition is not synonymous with transition regret. People stop transitioning for [many reasons besides regret](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213007/), including lack of social support or resources, satisfaction with the extent of their medical transition, a change in their gender identity, and the desire to have children. Additionally, some trans people experience shifts in gender over time; a person’s choice to detransition may be either temporary or permanent. Don’t make assumptions about someone’s relationship to transition or gender identity just because they seem to have halted some form of transition-related medical care. 
 
@@ -598,32 +612,11 @@ _Additional resources:_
 </div> 
 
 ### hormone therapy { #hormones updated="2023-11-14" }
-_Gender-affirming hormone therapy,_ also called _cross-sex hormone therapy,_ is a form of gender-affirming care. Cisgender people may also take sex hormones to treat a variety of health conditions. The term _hormone replacement therapy_, often abbreviated to _HRT_, is common in medical contexts but can be unclear in news writing, as it is also associated with cisgender women who take estrogen during menopause.
+_Gender-affirming hormone therapy,_ also called _cross-sex hormone therapy,_ is a form of transgender medical care. Cisgender people may also take sex hormones to treat a variety of health conditions. The term _hormone replacement therapy_, often abbreviated to _HRT_, is common in medical contexts but can be unclear in news writing, as it is also associated with cisgender women who take estrogen during menopause.
 
 Avoid references to _male hormones_ or _female hormones_ — humans produce the same sex hormones regardless of [assigned sex](undefined), at varying levels. Refer to the specific hormone where possible, or refer to _masculinizing_ or _feminizing hormone therapy_ where appropriate. Note that puberty blockers are not considered _cross-sex hormones_ in themselves, though they affect a person’s sex hormones and may be part of a broader hormone medication plan.
 
 There is no singular model for hormone therapy. Gender-expansive people may undergo hormone therapy with any number of personal or medical goals, from being consistently perceived as their lived gender to seeking less outwardly noticeable physical and psychological benefits. Some people pursue hormone therapy for a short period of time or at various doses; others do so intermittently throughout their lives or consistently for many years.
-
-### gender-affirming care, transition-related care { #gender-affirming-care updated="2024-06-17" }
-Terms like _gender-affirming medical care_ or _transition-related medical care_ are appropriate to describe health care that trans people seek as part of their gender transition. This may include counseling, puberty blockers and/or hormones, minimally-invasive procedures like electrolysis,  or surgery. Not all transgender people pursue every form of gender-affirming medical treatment available. [Many never receive gender-affirming care of any kind](https://www.kff.org/report-section/kff-the-washington-post-trans-survey-trans-in-america/) due to cost, access, or personal choice. 
-
-_Gender-affirming care_ is a very broad term. When a story demands more specificity, journalists should use the scientifically accurate name of a surgery or treatment.
-
-Less commonly, _gender-affirming medical care_ may also be used to refer to cosmetic or medical procedures pursued for gender affirmation regardless of whether the patient is transgender. For instance, if a cisgender woman receives reconstructive surgery after a mastectomy, that could be considered a gender-affirming surgery. 
-
-This nuance may be relevant while interpreting legislation that seeks to restrict transition-related medical care. Much legislation seeks either to restrict only trans people’s access to gender-affirming procedures or to restrict the use of such procedures only for the purposes of transition. The phrase _gender-affirming medical care for transgender people_ may be most accurate, when additional clarity is necessary.
-
-<div class="readmore">
-
-_Additional resources:_
-- [The 19th Explains: What is gender-affirming care?](https://19thnews.org/2023/06/everything-to-know-about-gender-affirming-care/) from The 19th*
-- [What medical treatments do transgender youth get?](https://apnews.com/article/science-health-mental-ce8f5a9ee53768af03c3c65d5331045b) from The Associated Press
-- [6 key takeaways from the Post-KFF survey of transgender Americans](https://www.washingtonpost.com/dc-md-va/2023/03/23/takeaways-post-kff-survey/) from The Washington Post
-- [Gender-affirming care has a long history in the US – and not just for transgender people](https://theconversation.com/gender-affirming-care-has-a-long-history-in-the-us-and-not-just-for-transgender-people-201752) from The Conversation
-- [Gender-affirming care for trans youth: Separating medical facts from misinformation](https://www.cbsnews.com/news/trans-youth-gender-affirming-health-care-misinformation/) from CBS News
-- [How to Report on Healthcare for Trans Youth Accurately and Sensitively](https://www.theopennotebook.com/2023/07/25/how-to-report-on-healthcare-for-trans-youth-accurately-and-sensitively/) from The Open Notebook
-
-</div>
 
 ### reproductive health { #reproductive-health updated="2023-08-25" }
 Use terms like _reproductive health_ over gendered terms like _women’s health_ when writing about abortion, birth control, menstruation, and other topics involving gynecologic health care. These topics can affect trans men and other transmasculine people, so they are not just “women’s health” issues, even if cisgender women are the majority of those affected by them. 
@@ -743,10 +736,10 @@ In particular, transgender children have been increasingly subjected to politica
 
 Although some children may technically be “public figures” because they have testified against bills in statehouses, the degree of exposure and safety risk they face by attending a hearing may be very different from the risk associated with having their name and likeness published where it can easily be found online.
 
-### obtain informed consent from subjects { #photo-consent updated="2023-08-25" }
+### obtain informed consent from subjects { #photo-consent updated="2025-04-18" }
 Public events, like Pride marches and protests, are fair game for news photography. But in spaces where there is a reasonable expectation of privacy, such as medical clinics, photojournalists should ask for and receive clear, informed consent before taking a photo or video of someone that identifies them as trans. If consent then cannot be obtained or is expressly denied, do not use the image unless there is an extremely compelling reason to do so. Publishing an image of a trans person against their will may amount to outing them and could place them in physical danger. 
 
-The above guidance also applies for embedded images from social media. Never republish or embed sensitive medical photos of a trans person’s body without that person’s explicit consent, and carefully weigh the news value of doing so even if consent is obtained. Surgical photos of trans people are sometimes reposted as shock imagery by critics of gender-affirming care, without the patient’s knowledge. If in doubt about the source of an image, do not publish it.
+The above guidance also applies for embedded images from social media. Never republish or embed sensitive medical photos of a trans person’s body without that person’s explicit consent, and carefully weigh the news value of doing so even if consent is obtained. Surgical photos of trans people are sometimes reposted as shock imagery by critics of transgender medical care, without the patient’s knowledge. If in doubt about the source of an image, do not publish it.
 
 In cutlines, only include information that can be verified about someone’s identity. Do not assume that a person’s presence at a trans-focused event, for example, means they are trans. If it’s not possible to clarify and there is any ambiguity about a person’s name or gender, use another term to describe them: _A protester at a rally for trans rights, a person in a green wig,_ etc. 
 
@@ -810,6 +803,13 @@ Some state and local laws may call out _gender-based discrimination_ discretely;
 
 Outside of legal reporting, use less technical language to describe policies. Focus more on their tangible effects: _anti-trans laws, bills restricting bathroom use,_ etc. If someone is alleging discrimination based on transgender identity, describe the specific allegations wherever possible, rather than relying on legal language.
 
+### gender-affirming care { #def-gender-affirming-care updated="2025-04-22" }
+_Gender-affirming care_ is a very broad term used to describe forms of medical care that trans people seek as part of their gender transitions. This may include counseling, puberty blockers and/or hormones, procedures like electrolysis, or surgery. _Gender-affirming medical care_ may also be used to refer to cosmetic or medical procedures pursued for [gender affirmation](https://www.nbcnews.com/think/opinion/gender-affirming-care-isnt-just-for-trans-people-rcna54651) [regardless](https://pubmed.ncbi.nlm.nih.gov/37285414/) of whether the patient is transgender.  
+
+It is a technical term and may read as jargon to some audiences, but is broadly interchangeable with terms like _transition-related care_, _transgender medical care_, _transgender health care_, _gender-related medical care,_ and _gender care_. Each phrase has its own technicalities and connotations. 
+
+See [_language around transgender health care_](#gender-affirming-care) for more information on journalistic best practices for describing medical care for transgender people.
+
 ### gender binary (n.) { #def-gender-binary updated="2023-08-25" }
 A cultural and societal classification system that sorts everyone into a male/female binary based on sex assigned at birth and equates male sex with masculinity and female sex with femininity.
 
@@ -826,8 +826,8 @@ Some terms describe specific types of gender dysphoria or euphoria. _Social dysp
 ### genderfluid (adj.) { #def-genderfluid updated="2023-08-25" }
 A gender identity that describes someone whose gender fluctuates or is not fixed. 
 
-### gender identity disorder (n.) { #def-gid updated="2023-08-25" }
-This is an outdated term. _Gender identity disorder_ used to be the official psychiatric diagnosis from the American Psychological Association for trans people seeking transition-related care in the U.S. In 2012, it was changed to _gender dysphoria_ (see [_gender dysphoria_](#def-euphoria-dysphoria)).
+### gender identity disorder (n.) { #def-gid updated="2025-04-18" }
+This is an outdated term. _Gender identity disorder_ used to be the official psychiatric diagnosis from the American Psychological Association for trans people seeking transgender medical care in the U.S. In 2012, it was changed to _gender dysphoria_ (see [_gender dysphoria_](#def-euphoria-dysphoria)).
 
 ### gender-neutral (bathrooms, facilities) (adj.) { #def-gender-neutral-bathrooms updated="2024-11-21" }
 Bathrooms and other facilities that are intended for use only by men or only by women may be referred to with phrases like _single-gender_ or _gender-segregated,_ or simply as _men's_ and _women's_. Facilities intended for use by people regardless of gender may be referred to as _unisex, all-gender, gender-neutral,_ etc., or as _single-stall, private, communal,_ etc. where accurate. The phrase _inclusive_ is common here (i.e. _trans-inclusive restrooms_) but is nonspecific. 
@@ -873,8 +873,8 @@ An umbrella term for genders other than _man_ and _woman_. This is also a term f
 ### sex (n.) { #def-sex updated="2023-08-25" }
 A person’s sex is a biological condition determined by primary and secondary sex characteristics, and may be male, female, or neither (see [_intersex_](#def-intersex)). [Sex is not synonymous](https://apnews.com/article/2a67da6515aa48e68e56cd97817b097a) with gender, which is a social and personal identity. See [_assigned sex at birth_](#asab)_._
 
-### sex change, sex reassignment (n.) { #def-sex-change updated="2024-12-06" }
-Outdated terms for gender-related surgery (typically genital surgery). _Sex change_ is widely considered offensive and should not be used outside of direct quotes. _Sex reassignment_ (or, less commonly, _gender reassignment_) is considered offensive by some trans people but is used in medical literature. Refer instead to _transgender health care_ or more specific terms as needed.
+### sex change, sex reassignment (n.) { #def-sex-change updated="2025-04-18" }
+Outdated terms for gender-related surgery (typically genital surgery). _Sex change_ is widely considered offensive and should not be used outside of direct quotes. _Sex reassignment_ (or, less commonly, _gender reassignment_) is considered offensive by some trans people but is used in medical literature. Refer instead to _transgender medical care_ or more specific terms as needed.
 
 ### top surgery, bottom surgery (n.) { #def-top-bottom-surgery updated="2024-12-06" }
 Euphemisms trans people often use to refer to transition-related medical procedures. They may refer to a wide range of surgeries; if specificity is necessary, use the medical term for the surgery or surgeries.
@@ -892,8 +892,8 @@ _Transfem_ or _transfemme_ when used as a noun is considered intracommunity slan
 ### transgender (adj.) { #def-transgender updated="2023-08-25" }
 Someone whose gender is not exclusively the one they were assigned at birth. Used as an adjective, it is a neutral descriptive term, often abbreviated to _trans_. Do not use _transgender_ as a noun. 
 
-### transmedicalist (n., adj.), transmedicalism (n.) { #def-transmedicalist updated="2023-08-25" }
-Transmedicalists argue that experiencing gender dysphoria and seeking gender-affirming medical care are prerequisites to being trans. Some also claim that nonbinary people cannot be trans and can’t or don’t seek gender-affirming medical care. These claims ignore the experiences of many trans, nonbinary, and gender-expansive people. 
+### transmedicalist (n., adj.), transmedicalism (n.) { #def-transmedicalist updated="2025-04-18" }
+Transmedicalists argue that experiencing gender dysphoria and seeking transgender medical care are prerequisites to being trans. Some also claim that nonbinary people cannot be trans and can’t or don’t seek transgender medical care. These claims ignore the experiences of many trans, nonbinary, and gender-expansive people. 
 
 ### transition (n., v.) { #def-transition updated="2023-08-25" }
 The social, legal, and/or medical process of aligning one’s life with one’s gender. This can include changing one’s name and pronouns; altering dress, speech, and mannerisms; updating documents and legal registries; and seeking medical treatment to change physical characteristics. 
@@ -902,7 +902,7 @@ People may transition in a few of these ways, all of these ways, or none of thes
 
 _Social transition:_ This may involve changing one’s name and pronouns, using different gender-specific facilities, or wearing different clothes. In children, transition is almost always limited to _social transition_. 
 
-_Medical transition:_ This may involve undergoing hormone therapy or gender-affirming surgery, taking puberty blockers, etc. _Medical transition_-related care is often age-dependent, particularly for teens and young adults. Not every patient is a candidate for any or all forms of _medical transition._
+_Medical transition:_ This may involve undergoing hormone therapy or gender-related surgery, taking puberty blockers, etc. _Medical transition_-related care is often age-dependent, particularly for teens and young adults. Not every patient is a candidate for any or all forms of _medical transition._
 
 _Legal transition:_ This may involve revising birth certificates, legal identification cards, passports, etc. Many governments require evidence of social and medical transition to precede legal transition.
 
@@ -935,8 +935,8 @@ A term coined by writer [Trudy on her blog Gradient Lair](https://web.archive.or
 ### transness (n.) { #def-transness updated="2024-04-03" }
 The attribute of being transgender. It is a neutral term comparable to _queerness_: _The painter said their transness inflects their art._ Not to be confused with the loaded euphemism _transgenderism_ (see [_transgenderism_](#transgenderism)).
 
-### transsexual (n., adj.) { #def-transsexual updated="2023-08-25" }
-Once the dominant word to describe someone who wants or seeks gender-affirming medical treatment, this is now a more niche and intracommunity term. Some consider it outdated or offensive. It may be appropriate to include the word if quoting historical materials, or if someone self-describes in this manner.
+### transsexual (n., adj.) { #def-transsexual updated="2025-04-18" }
+Once the dominant word to describe someone who wants or seeks transgender medical care, this is now a more niche and intracommunity term. Some consider it outdated or offensive. It may be appropriate to include the word if quoting historical materials, or if someone self-describes in this manner.
 
 ### transvestite (n.) { #def-transvestite updated="2023-08-25" }
 A medical term coined in the early 1900s to describe patients who dressed as another gender. Now widely considered offensive. See [_crossdresser_](#def-crossdresser)_._
