@@ -129,7 +129,7 @@ Do not _proactively_ update previously published stories when someone quoted or 
 
 **2: The person was identified correctly when the story was published, but they have since changed their identity** _**and**_ **have asked that the story be retroactively updated**_**.**_ If your newsroom receives a name/pronoun update request from a source, honor it in accordance with your newsroom’s own standards and to the extent your news outlet is able to update previously published content. Do _not_ add a correction note, but a brief editor’s note explaining that outdated information has been changed may be added for transparency: _This report’s references to Jane Doe have been updated._ 
 
-### when metadata or content management system assets deadname/misgender a trans person { #metadata-errors updated="2025-04-22" }
+### when web assets deadname/misgender a trans person { #web-asset-errors updated="2025-04-22" }
 Web editors should be mindful that non-story backend assets, like taxonomy tags and alt-text, may contain deadnames or other outdated information when a source transitions after publication. If these can be easily updated in the content management system, this is best practice: For example, redirect the tag “John Doe” to “Jane Doe,” and tag all future coverage only with “Jane Doe.” This applies even if a source or individual has not reached out directly, as they may not know these assets exist.
 
 ### when sources deadname or misgender a trans person { #deadnaming updated="2023-08-25" }
