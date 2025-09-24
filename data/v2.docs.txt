@@ -1,6 +1,6 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2025–04-22" }
+# Stylebook and Coverage Guide { #intro updated="2025–09-23" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -42,7 +42,7 @@ Trans people — not their parents, children, friends, colleagues, or critics �
 The best way to determine a person's gender, name, and pronouns is to ask them directly. Police reports, public documents, or statements from family members can incorrectly identify someone. Social media profiles can be one clue, but they can also be misleading, outdated,  incomplete, or falsified. Take extra care when covering breaking news, which [commonly](https://www.mediamatters.org/justice-civil-liberties/news-outlets-misidentified-nearly-two-out-three-victims-anti-trans-violence) [misidentifies](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) transgender people (see [_Breaking News_](#subsection-breaking-news) topical guide). 
 
 ### ‘trans issues’ is a euphemism { #trans-issues updated="2025-04-25" } 
-Like _culture war_, the phrase _trans issues_ is common shorthand in political reporting, standing in for the myriad ways in which trans people are politicized. But as government efforts to single out trans people ramp up, journalists should avoid collapsing anti-trans sentiment, laws, and policies into a single catch-all. These efforts may be as sweeping as the national effort to redefine “sex” in American law, and as narrow as punitive measures directed at specific law firms for their work with trans clients.
+Like [_culture war_](#culture-war), the phrase _trans issues_ is common shorthand in political reporting, standing in for the myriad ways in which trans people are politicized. But as government efforts to single out trans people ramp up, journalists should avoid collapsing anti-trans sentiment, laws, and policies into a single catch-all. These efforts may be as sweeping as the national effort to redefine “sex” in American law, and as narrow as punitive measures directed at specific law firms for their work with trans clients.
 
 Reporting on anti-trans politics and policies benefits from clarity and specificity; euphemisms like _trans issues_ provide neither. Consider: What is the _trans issue_ at play in a given story? Civil rights protections? Health care access? Access to valid identity documents? Let the answer to that question guide your language. Lay out the stakes.
 
@@ -91,8 +91,8 @@ For instance, when covering legislation that seeks to limit transgender people�
 
 <hr>
 
-# Gender, Name, and Pronoun Usage { #section-usage updated="2023-08-25" }
-## Gender { #subsection-gender updated="2023-08-25" }
+# Gender, Name, and Pronoun Usage { #section-usage updated="2025-09-24" }
+## Gender { #subsection-gender updated="2025-09-24" }
 
 ### don’t guess anyone’s gender identity or pronouns { #do-not-guess updated="2023-08-25" }
 Don’t assume someone is cisgender or transgender based on their appearance, gender presentation, pronouns, or name. Wherever safe and practicable, journalists should make a habit of asking all sources for their [pronouns and self-identification](https://www.theopennotebook.com/guide-to-tracking-source-diversity/), and should take particular care to do so when reporting on topics likely to involve LGBTQ+ people. See [_self-identification_](#self-id)_._
@@ -102,8 +102,12 @@ Do not identify someone as transgender unless it provides necessary and relevant
 
 Additionally, when a nonbinary source is introduced, reporters often include a phrase defining _nonbinary_. This may not be necessary, as _nonbinary_ has entered more widespread use in recent years, especially in the U.S. and the U.K. Use judgment in determining whether an audience will be familiar with this term, and keep definitions concise (see [_nonbinary_](#def-nonbinary)).
 
-### writing about someone in the past { #past-pronouns updated="2023-08-23" }
-Use someone’s current name and pronouns when writing about that person’s past, unless they request otherwise. 
+### writing about someone in the past { #past-pronouns updated="2025-09-24" } 
+Use someone’s current name and pronouns when writing about that person’s past, unless they request otherwise. Omit, write around, or bracket out deadnaming/misgendering.
+
+If a trans person requests to deadname or misgender themself in a quote, such as in reference to a past identity, that quote may be published verbatim if it adds value to the story. But do not use an outdated name or pronouns outside of direct quotations from that person, unless directed to do so by them. Additionally, make it clear that the deadnaming or misgendering comes from the trans person themself, in a context that they specifically consented to (rather than from the writer’s own paraphrasing). 
+
+See [_deadnames_](#deadnames) for further guidance. For multimedia guidance, see the [_visual media_](#section-visuals) subsection. For guidance on referring to deceased trans people, see [_obituaries_](#obituaries)_._
 
 ### “identifies as” just means “is” { #identifies-as updated="2023-08-25" }
 Just as a journalist would not write _identifies as a man_ or _identifies as a woman_ about a cisgender person, journalists should not write _identifies as nonbinary_ or _identifies as trans_ about a nonbinary or transgender person. Simply state that someone is trans, is nonbinary, is a man or woman, etc., unless directly quoting a trans source.
@@ -205,7 +209,7 @@ Do not avoid using a person’s name or pronouns in a story simply because that 
 <hr>
 
 
-# Politicized or Inaccurate Phrases { #section-phrasing updated="2023-08-25" }
+# Politicized or Inaccurate Phrases { #section-phrasing updated="2025-09-24" }
 
 ### assigned sex at birth { #asab updated="2023-08-25" }
 _Assigned sex at birth_ is the sex marker given to a person based on anatomical and other physical traits observed at birth. The purpose of this wording is to clarify that people are _given_ sex and gender labels by other people, such as medical professionals; [they do not simply](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/) [_have_](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/) [these labels automatically](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/). _Assigned sex_, _birth sex,_ and _natal sex_ are roughly equivalent terms, but _biological sex_ requires additional nuance (see [_biological sex_](#biological-sex)). 
@@ -231,18 +235,36 @@ _Additional resources:_
 
 </div>
 
-### biological sex { #biological-sex updated="2023-08-25" }
+### biological sex { #biological-sex updated="2025-09-24" }
 The phrase _biological sex_ is common in scientific writing as a synonym for _birth sex, natal sex,_ or _assigned sex_ _at birth._ Outside of medical literature, _assigned sex at birth_ is preferable over _biological sex_ if used in this way.
 
-But _biological sex_ in particular is a more politicized term than _birth sex_, _natal sex,_ or _assigned sex at birth_. Colloquially, many critics of trans inclusion use _biological sex_ instead of _assigned sex at birth_ to falsely imply that a person’s “real” sex is immutable, can only be male or female, or is always readily apparent. 
+But _biological sex_ in particular is a more politicized term than _birth sex_, _natal sex,_ or _assigned sex at birth_. Colloquially, many critics of trans inclusion use _biological sex_ instead of _assigned sex at birth_ to falsely imply that a person’s “real” sex is unchangeable, can only be male or female, is only reflected by their anatomy as assessed at birth, or is always readily apparent. 
 
-Where _biological sex_ is used in public policy, it may be defined differently between jurisdictions and even from one law or policy to the next. Some policies may use _biological sex_ for _assigned sex at birth_, while others use it for _legal sex_. These definitions have [newsworthy consequences](https://www.reuters.com/world/us/state-laws-rising-threats-have-chilling-effect-transgender-care-2023-08-24/) that may also [stretch beyond trans communities](https://montanafreepress.org/2023/03/27/montana-could-lose-any-all-or-none-of-its-7-5-billion-federal-special-revenue-authority/). 
+Where _biological sex_ is used in public policy, it may be defined differently between jurisdictions and even from one law or policy to the next. Some policies may use _biological sex_ for _assigned sex at birth_, while others use it for _legal sex_. Others may tie _biological sex_ to specific attributes like gamete production or chromosomes. These definitions have [newsworthy consequences](https://www.reuters.com/world/us/state-laws-rising-threats-have-chilling-effect-transgender-care-2023-08-24/) that may also [stretch beyond trans communities](https://montanafreepress.org/2023/03/27/montana-could-lose-any-all-or-none-of-its-7-5-billion-federal-special-revenue-authority/). Policy documents that do not attempt to define _biological sex_ may leave its precise meaning to interpretation.
 
-While covering such policies, quote legal language directly, explain how the legislation defines _sex_ or _biological sex_, and include context about how that definition relates to any relevant federal or state law, as well as [the scientific consensus that sex is incredibly varied](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/). 
+While covering such policies, quote legal language directly, explain how the legislation defines “biological sex,” and include context about how that definition relates to any relevant federal or state law, as well as [the scientific consensus that sex is incredibly varied](https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/). 
 
-Trans people may have state or federal legal documents that do not match their assigned sex at birth (see [_same-sex marriage_](#same-sex-marriage)). It is often uncertain how laws and policies that define _sex_ solely as assigned sex, regardless of a person’s legal sex marker, will be interpreted or implemented for trans people by relevant authorities.
+Trans people may have state or federal legal documents that do not match their assigned sex at birth (see [_same-sex marriage_](#same-sex-marriage)). It is often uncertain how laws and policies that define _biological sex_ solely as assigned sex at birth, regardless of a person’s legal sex marker, will be interpreted or implemented for trans people by relevant authorities.
 
-Avoid using _biological_ in reference to people, rather than in broad references to the concept of _biological sex._ Noun phrases like _biological men_, _biological males, biological women,_ or _biological females_ are often used by anti-trans groups to invoke a person’s assigned sex at birth as their “real” gender, in contrast to their gender identity.
+Avoid using _biological_ in reference to people, rather than in broad references to the concept of _biological sex._ Noun phrases like _biological men_, _biological males, biological women,_ or _biological females_ are often used by anti-trans groups to invoke a person’s assigned sex at birth as their “real” gender, in contrast to their gender identity. 
+
+Avoid uncritically reprinting speculation about a person’s _biological sex_. Rumors about individual people’s undisclosed transgender or intersex status — increasingly driven by [conspiracy theorists](https://www.them.us/story/what-does-transvestigation-anti-trans-conspiracy-theory) — are rarely newsworthy, frequently [prove inaccurate](https://www.snopes.com/news/2024/08/22/michelle-obama-not-trans/), sometimes require [correction](https://www.wgbh.org/news/local/2024-08-05/after-backlash-boston-globe-apologizes-for-headline-error-about-algerian-boxer), and may expose publishers to legal action. If rumors about a person’s trans status or birth sex become newsworthy, such as if an athlete is removed from competition, take care to clearly identify what is and is not proven (see [_self-identification_](#self-id)). Avoid the use of language that implies criminality, like _allegations_ or _accusations_, to describe claims that someone is transgender or intersex.
+
+See [_breaking news_](#subsection-breaking-news) subsection for guidance on how to make decisions about identifying people when the facts are unclear.
+
+
+### culture war (n.), culture-war (adj.) { #culture-war updated="2025-09-24" }
+This political jargon refers to a wide range of social issues that is generally understood to include LGBTQ+ rights. Use sparingly, and only in very sweeping references (_ex. The Republican campaigned on culture-war issues rather than economic policy)._ Avoid using this term as a euphemism for policies or debates that are specifically about trans or LGBTQ+ people, and specify what is being debated where possible _(ex. The Republican campaigned on restricting access to health care for trans minors)._ 
+
+Avoid credulously repeating claims about the prevalence or content of _culture wars_ debates without fact-checking. 
+
+<div class="readmore">
+
+_Further reading:_
+- [You Don’t Mean “Culture War”](https://objectivejournalism.org/2020/07/you-dont-mean-culture-war/) from The Objective
+- [Why ‘culture war’ narratives ignore real impact of anti-trans bills](https://nbcuacademy.com/sydney-bauer-trans-transgender-rights-media/) from NBCU Academy
+
+</div>
 
 ### detransitioner { #detransitioner updated="2023-08-25" }
 A politicized term for people who detransition. While describing a person’s choice to _detransition_ is acceptable, do not use the descriptor _detransitioner_ unless in a direct quote. Many people who stop gender-affirming care find being characterized as a _detransitioner_ offensive or inaccurate, as this label has been adopted by some prominent proponents of anti-trans legislation. Reporters should not assume why a given person or group of people chose to stop transitioning without more information (see [_detransition, retransition_](#detransition-retransition)).
@@ -281,7 +303,7 @@ Referring to the act or idea of _passing_ is acceptable: _He said passing as cis
 
 Journalists should not describe someone as _stealth_ or assess whether they _pass_ based on their own observations. But those terms may be appropriate if directly quoting a trans person who describes themself that way.
 
-### transgenderism, trans ideology, trans agenda { #transgenderism updated="2024-04-03" }
+### transgenderism, trans ideology, gender ideology, trans agenda { #transgenderism updated="2025-09-20" }
 These are loaded terms that anti-trans activists use to describe transgender people. There is no such thing as _transgenderism_ any more than there is a “[gay agenda](https://www.nlgja.org/stylebook/gay-agenda/);” the _-ism_ as used in _transgenderism_ implies that a trans person’s gender is a political philosophy, not a demographic characteristic. Use _transness_ to describe the attribute of being transgender (see [_transness_](#def-transness)), or simply use phrases such as _transgender identity_ or _being transgender_. 
 
 ### transgendered  { #def-transgendered updated="2024-04-03" }
@@ -316,6 +338,13 @@ Do not use _trans-identified_ to refer to a trans person (see [_“identifies as
 The terms _trans male_ and _trans female_ can be ambiguous because some use _trans male_ to refer to transgender men while others use it to refer to transgender women. Likewise, some use _trans female_ to refer to trans women while others use it to refer to trans men. The terms _female transgender people_ or _male transgender people_ are likewise used inconsistently, and can be used or interpreted in different ways by both cisgender and transgender people. Some conflate these terms out of unfamiliarity, while others may use them intentionally to disparage a trans person.
 
 If a source uses these phrases, ask them to clarify what they mean and paraphrase, rather than quoting directly. Outside of quotes, use _trans man_, _trans woman_, _nonbinary_ _person,_ etc. as appropriate. Where necessary, use more specific language (_trans people who can get pregnant_, _transfeminine people_, etc.). See also [_assigned sex at birth_](undefined)_._
+
+### woke (adj.), wokeness/wokism (n.) { #woke updated="2025-09-24" }
+A term coined by 20th century [Black activists](https://web.archive.org/web/20230320032834/https://www.washingtonpost.com/opinions/2022/02/02/black-history-woke-appropriation-misuse/) to describe an awareness of resistance to white supremacy in the United States, _woke_ reentered the modern lexicon during the height of the Black Lives Matter movement of the early 2010s. Initially used as an earnest descriptor for someone interested in progressive social causes, _woke_ is now also an ironic insult for such a person. It is frequently invoked as a derogatory term for any ideological position on race or gender that conservatives see as extreme, including support of trans rights. 
+
+Because the pejorative _woke_ has no fixed definition, it cannot stand alone. Always contextualize it, explaining what an individual or group is trying to say in deeming something or someone _woke_. 
+
+When quoting someone who uses _woke_ or _wokeness_ to unambiguously refer to ideas or policies related to trans people, clearly say what they mean. Paraphrase some or all of the quote if necessary. (_ex. The lawmaker blamed ads attacking him over support for trans athletes for his loss_, instead of _The lawmaker blamed ads attacking his“wokeness” for his loss.)_ If someone uses _woke_ in a more generic sense, note that ambiguity. See also [_culture war_](#culture-war)_._
 
 <hr>
 
@@ -415,7 +444,7 @@ Covering the legal landscape for trans people in the U.S. requires careful resea
 
 Such policies also have [implications for intersex people](https://19thnews.org/2023/03/bills-gender-affirming-care-trans-intersex-youth/), even if they are not transgender. Legislation may refer to “disorders of sexual development” instead of “intersex people” or “intersex traits” (see [_differences of sexual development_](#def-dsd)). Policies described as specifically limiting medical care for trans youth may also in fact create [barriers to medical care for trans adults](https://www.pbs.org/newshour/health/floridas-ban-on-gender-affirming-care-for-minors-also-limits-access-for-trans-adults).
 
-Given this complexity, strong coverage of anti-trans policies should give readers a clear understanding of what is happening and why, rather than leaning on vague notions of a “culture war.” 
+Given this complexity, strong coverage of anti-trans policies should give readers a clear understanding of what is happening and why, rather than leaning on vague notions of a “[culture war](#culture-war).” 
 
 When writing about state or federal legislation, include information like what stage a bill is at, whether it is likely to pass, how it would or could be enforced, and what courts have said about similar laws. It should also include the broader context of such legislation and policies: why these bills are being proposed, what other bills have been proposed (in prior sessions or other states), how related legislation is faring elsewhere, and how these legislative proposals may overlap with other executive actions in a state. Even policies that are ultimately struck down can have [newsworthy](https://www.news-leader.com/story/news/local/2023/04/23/statewide-emergency-rule-has-trans-residents-considering-leaving-mo/70121867007/), [disruptive](https://www.theguardian.com/world/2023/jun/06/lgbtq-rights-trans-gay-texas-florida-north-carolina) [effects](https://news.stlpublicradio.org/government-politics-issues/2023-05-21/transgender-missourians-say-this-legislative-session-made-them-refugees-in-their-own-state) on trans people and the communities in which they live. 
 
@@ -645,7 +674,7 @@ There is no straightforward measure of [“normal” testosterone levels](https:
 ### “transgender athletes” is an umbrella term { #trans-athletes updated="2023-08-25" }
 The phrase _transgender athletes_ is sometimes used as shorthand for transgender girls and women who seek to participate in girls’ and women’s sports. But depending on the specific wording of a given law, policy or rule, trans women and girls [may not be the only group of athletes affected](https://www.si.com/golf-archives/2022/01/25/luc-esquivel-trans-sports-ban-boys-and-mens-teams-daily-cover). Laws that restrict participation based on the sex marker on someone’s birth certificate, for example, could also bar transgender boys and men from playing on boys’ and men’s teams. Depending on the policy, [nonbinary athletes](https://www.runnersworld.com/runners-stories/a44201663/nikki-hiltz-first-nonbinary-usatf-champion/) may be categorized as male or female and affected in different ways. 
 
-## Other Guidance { #subsection-other updated="2023-08-25" }
+## Other Guidance { #subsection-other updated="2025-09-24" }
 ### drag { #drag updated="2023-08-25" }
 A form of performance art in which wearing seemingly gender-incongruent clothing plays a central role. Do not use _drag_ or _being in drag_ to describe merely the act of dressing in seemingly gender-incongruent clothes, and do not refer to someone as _in drag_ or as a _drag queen_ or _drag king_ if they are not a drag performer (see [_crossdresser_](#def-crossdresser) and [_gender-nonconforming_](#def-gender-nonconforming)). 
 
@@ -724,6 +753,28 @@ Depending on which documents someone has changed, various courts and government 
 
 ### the “losing a loved one” cliche { #losing-loved-one updated="2023-08-25" }
 While the friends and family of a newly out trans person may need time to process, avoid framing their grief as being more central to the story than the trans person’s own coming out. Comparisons to “losing a loved one” are inappropriate if the trans person in question has not died.
+
+### understanding polling data { #polling-data updated="2025-09-24" }
+Polling data can lend context to public opinion, but reporters should be aware that the quality varies across individual polling firms and even poll to poll. Journalists should avoid drawing conclusions about public opinion that extend beyond the specific question asked, and should review sample size, weighting, and other polling methods when evaluating the reliability of a poll.
+
+Even high-quality polls can register contradictory findings on the same topic, based on how questions are framed. This is particularly relevant when covering polls about trans people. It’s important to read the exact question language and to understand how a poll was conducted to avoid misrepresenting poll findings. 
+
+For example, polls on the support of transition as a concept are distinct from polls about restrictions on trans rights. Questions like “Is changing one’s gender morally wrong?” versus “Do you favor or oppose laws that ban certain types of gender health care?” have produced significantly [different responses even from the same polling](https://news.gallup.com/poll/645704/slim-majority-adults-say-changing-gender-morally-wrong.aspx?ref=transjournalists.org) firms. Poll questions that reference multiple topical areas or that list trans people as one example among many — for instance, that ask questions using phrasings such as “cultural issues like transgender issues” — do not always allow respondents to differentiate which item dictated their response. 
+
+Take care not to come to assumptions that are unsupported by the data. Interview those who conducted the polls whenever possible.
+
+<div class="readmore">
+
+_Additional resources:_
+- [What polling can and can’t tell us](https://www.transjournalists.org/2024-resources-for-understanding-polls/#what-polling-can-and-cant-tell-us) from the Trans Journalists Association
+- [How To Read Polls In 2020](https://fivethirtyeight.com/features/how-to-read-2020-polls-like-a-pro/?ref=transjournalists.org) from FiveThirtyEight
+- [What Makes A Good Pollster? l Polling 101 From FiveThirtyEight](https://www.youtube.com/watch?v=fzzX9jHDK4k&ref=transjournalists.org) on YouTube
+- [5 tips for writing about polls](https://medium.com/pew-research-center-decoded/5-tips-for-writing-about-polls-9cb0596ff28?ref=transjournalists.org) from Pew Research Center
+- [5 tips to help journalists spot question order bias in polls, surveys](https://journalistsresource.org/home/question-order-bias-effect-survey-poll/?ref=transjournalists.org) from The Journalist's Resource
+- [LGBTQ+ Rights](https://news.gallup.com/poll/1651/gay-lesbian-rights.aspx?ref=transjournalists.org) from Gallup Historical Trends
+- [How to tell good LGBTQ+ stories with bad data](https://source.opennews.org/articles/how-tell-good-lgbtq-stories-bad-data/?ref=transjournalists.org) from Source
+
+</div>
 
 <hr>
 
@@ -951,7 +1002,7 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 
 <hr>
 
-# Further Reading { #section-further-reading updated="2023-08-25" }
+# Further Reading { #section-further-reading updated="2025-09-23" }
 
 ### trans coverage best practices { #read-best-practices updated="2024-01-29" }
 
@@ -962,7 +1013,7 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 - [Transgender Coverage Topical Guide](https://apstylebook.com/topicals/topicals-transgender-coverage-topical-guide-transgender-coverage-topical-guide) from The Associated Press [requires login]
 - [Making Your Writing and Reporting Transgender-Inclusive](https://www.theopennotebook.com/2020/09/22/making-your-writing-and-reporting-transgender-inclusive/) from The Open Notebook
 
-### trans-relevant journalism best practices { #read-broader-practices updated="2023-11-14" }
+### trans-relevant journalism best practices { #read-broader-practices updated="2025-06-14" }
 
 - [A Journalist’s Guide to Avoiding Lawsuits and Other Legal Dangers](https://gijn.org/2021/09/01/a-journalists-guide-to-avoiding-lawsuits-and-other-legal-dangers/) from the Global Investigative Journalism Network
 - [How to interview vulnerable sources without exploiting them](https://www.npr.org/sections/publiceditor/2023/08/22/1195097771/how-to-interview-vulnerable-sources-without-exploiting-them) from NPR
@@ -971,11 +1022,15 @@ Some stylize _Two-Spirit_ as _2spirit_ or similar; quote written text verbatim, 
 - [Why Should I Tell You?: A Guide to Less-Extractive Reporting](https://ethics.journalism.wisc.edu/why-should-i-tell-you-a-guide-to-less-extractive-reporting/) from the University of Wisconsin–Madison Center for Journalism Ethics
 - [¿Por Qué Debería Decírtelo?: Una Guía Para Hacer Reportajes Menos Extractivos](https://ethics.journalism.wisc.edu/por-que-deberia-decirtelo/) from the University of Wisconsin–Madison Center for Journalism Ethics
 - [Inclusive Storytelling](https://apstylebook.com/ap_stylebook/inclusive-storytelling) from the Associated Press [requires login]
+- [Safer Reporting for Safer Communities: A Code of Ethics](https://saferjournalism.org/code-of-ethics/) from the Philadelphia Safer Journalism Project
+- [Outside In: Covering Communities as an Outsider](https://www.theopennotebook.com/2025/09/23/outside-in-covering-communities-as-an-outsider/) from The Open Notebook
 
-### trans-relevant style guides { #read-style-guides updated="2024-12-20" }
+### trans-relevant reporting and style guides { #read-style-guides updated="2025-05-05" }
 
 - [A Guide to the Guides: What to Know About LGBTQ Style Guides for Journalists](https://ewa.org/data-research-tips/a-guide-to-the-guides-what-to-know-about-lgbtq-style-guides-for-journalists) from the Education Writers Association
 - [Style Guide for Trauma-Informed Journalism](https://dartcenter.org/resources/dart-center-style-guide) from the Columbia Journalism School’s Dart Center
+- [Homelessness Reporting Guide](https://www.documentcloud.org/documents/25930326-homelessness-reporting-guide/) from The Homelessness Beat Reporters Collective
+- [Gun Violence Reporting Guides](https://datahub.thetrace.org/resources/) from The Gun Violence Data Hub
 - [Reporting Guides](https://najanewsroom.com/reporting-guides/) from the Indigenous Journalists Association 
 - [NABJ Style Guide](https://nabjonline.org/news-media-center/styleguide/) from the National Association of Black Journalists
 - [NAHJ Cultural Competence Handbook](https://nahj.org/nahj-cultural-competence-handbook/) from the National Association of Hispanic Journalists
