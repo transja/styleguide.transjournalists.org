@@ -456,8 +456,6 @@ _Additional resources on bills, policies, and orders affecting trans people:_
 - [Covering executive orders that target trans Americans](https://www.transjournalists.org/2025-executive-orders-journalism-resources/) from the Trans Journalists Association
 - [Covering the Community: How to Jump Hurdles in Queer Political Coverage](https://web.archive.org/web/20230130204451/https://www.ire.org/wp-content/uploads/woocommerce_uploads/2021/11/ire_q4_2021-iwwvrp.pdf) from Investigative Reporters & Editors
 - [Reporting on Anti-Trans Legislation: In Service to Whom?](https://t.co/2RoysqAUzw) from the Solidarity Journalism Initiative
-- [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
-- [Political extremism: 5 ways journalists can improve coverage and mitigate harm](https://www.pressclubinstitute.org/2023/02/02/political-extremism-5-ways-journalists-can-improve-coverage-and-reduce-harm/) from National Press Club Journalism Institute
 - [Investigating Federal and State Actions Against Trans Youth](https://ewa.org/how-to-cover-the-story/how-the-conservative-reframing-of-civil-rights-affects-trans-youth) from the Education Writers Association
 
 _Additional resource on statehouse coverage:_
@@ -534,7 +532,52 @@ _Data on anti-trans discrimination:_
 
 </div>
 
-## Criminal Justice { #subsection-criminal-justice updated="2023-08-25" }
+## Criminal Justice { #subsection-criminal-justice updated="2025-10-01" }
+### anti-trans misinformation surrounding mass shootings and extremist activities { #shooting-misinformation updated="2025-10-01" }
+
+Right-wing internet users, media outlets, and politicians regularly spread false claims that mass shooting perpetrators are transgender. These claims often start before the release of any substantive information from authorities. This pattern began [after the Uvalde shooting in 2022](https://apnews.com/article/uvalde-school-shooting-government-and-politics-shootings-texas-conspiracy-theories-8d9ac3b61420c6542b11d0da3f0b3a16) and has led to the [harassment](https://www.snopes.com/news/2022/05/25/uvalde-school-shooting-ramos-trans/?collection=419958) of trans [people](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584) [completely](https://www.seattletimes.com/seattle-news/law-justice/seattle-trans-woman-faces-hate-after-being-misidentified-as-charlie-kirks-killer/) [unrelated](https://www.nbcnews.com/nbc-out/out-news/trans-womans-photo-used-spread-baseless-online-theory-texas-shooter-rcna30511) to [the](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584) crimes. In some cases, law enforcement or politicians have complicated this misinformation pattern by releasing [contradictory](https://www.nbcnews.com/feature/nbc-out/details-nashville-shooters-gender-identity-sow-confusion-disinformatio-rcna77424), [unverified](https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/), [purely speculative](https://x.com/RepMTG/status/1970851648273588411), or [ultimately](https://xtramagazine.com/video/anti-trans-misinfo-charlie-kirk-tja-276808) [false information](https://www.cjr.org/analysis/liveblogging-through-it-charlie-kirk-tyler-robinson-misinformation-transgender.php) that initially tied trans perpetrators to shootings as news developed. 
+
+In 2023, then-former President Donald Trump said baselessly that there had been an “incredible rise” in the number of trans shooters, becoming the highest-profile figure to spread this claim. This was [untrue](https://apnews.com/article/fact-check-transgender-nashville-shooting-misinformation-cd62492d066d41e820c138256570978c) then, and it [remains untrue](https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/) now. Anti-trans actors have begun to falsely claim that mass shooters are disproportionately transgender or that transgender people are more likely to commit crimes. Snopes [evaluated these recent claims](https://www.snopes.com/fact-check/transgender-mass-shootings/) and PolitiFact [debunked the numbers behind them](https://www.politifact.com/article/2025/sep/09/trans-people-mass-shootings-gun-violence/); Wired also undermined the statistics used to perpetuate [similar misinformation](https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/). These claims now reliably resurface online when mass shootings occur. 
+
+Further, false notions that transgender people categorically commit more violence than other groups have inspired new language in anti-transgender policy circles. In the wake of a shooting, organizations or individuals may rush to blame bloodshed on “[_transgender ideology_](https://docs.google.com/document/d/1DF3yTEFkLzjDuo7IvaUWUZrG-4uXhnzc7ZIb6Q-AvLI/edit#transgenderism),” “_gender extremism_,” “[_transgender ideology-inspired violent extremism_](https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/),” or “_trantifa,”_ conflating transgender identity with an extremist political stance. This framing is both incendiary and premised on a falsehood; reporters who quote or reference such language should explain this context.
+
+When journalists credulously circulate claims about shooting perpetrators’ identity or motivations without verification or while the facts are still developing, they can spread misinformation. This can have [tangible consequences](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) for trans people: Some US government officials have [suggested limiting transgender people’s access to guns](https://apnews.com/article/justice-department-ban-trans-gun-owners-trump-e05b489ad64b80af31e376d6d3ef7dfd) or [institutionalizing them](https://www.erininthemorning.com/p/two-republican-congresspeople-call) based on these false premises. 
+
+A hyperfocus on the alleged perpetrator(s) also contradicts best practices for covering mass shootings. [Experts](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/), [researchers](https://pmc.ncbi.nlm.nih.gov/articles/PMC5296697/), and [gun violence reporters](https://nbcuacademy.com/mass-shootings-media/) stress that elevating mass shooters and [seeking reductive motives](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/) for their actions can [foment further violence](https://pmc.ncbi.nlm.nih.gov/articles/PMC11912226/). 
+
+Journalists covering potential political violence should familiarize themselves with the symbols and language of extremist groups. The slang and shorthand of online extremist spaces, in particular, is often intentionally difficult for outsiders to parse; seemingly straightforward references to identity groups or political beliefs may also be, for example, [video game in-jokes](https://www.polygon.com/charlie-kirk-shooter-helldivers-2-meme-tyler-robinson/) or [obscure memes](https://www.theguardian.com/technology/2025/sep/17/charlie-kirk-suspect-online-memes). Journalists reporting on what may be extremist violence should consult extremism researchers and other relevant experts. This may help avoid errors, corrections, and other breaches of journalistic best practice and public trust. 
+
+Report on stories that may involve political violence or other common elements that facilitate the spread of misinformation with extreme caution. Be as transparent as possible about what is and isn’t known and explain how journalists reached their conclusions, both to increase accuracy in reporting and build trust with audiences in a breaking news environment. 
+
+<div class="readmore">
+
+_Additional resources:_
+- [FACT FOCUS: No ‘incredible rise’ in transgender shooters](https://apnews.com/article/fact-check-transgender-nashville-shooting-misinformation-cd62492d066d41e820c138256570978c) from the Associated Press 
+- [Mass shooters are not disproportionately transgender, contrary to claims](https://www.snopes.com/fact-check/transgender-mass-shootings/) from Snopes
+- [Fact Check: Majority of US mass shooters are cis men, not transgender or non-binary people](https://www.reuters.com/article/fact-check/majority-of-us-mass-shooters-are-cis-men-not-transgender-or-non-binary-people-idUSL1N363273/) from Reuters
+- [The Right​’s Baseless​ Project to ​Link Trans People​ With Extremism](https://newrepublic.com/article/200816/fbi-baseless-project-trans-extremism) from The New Republic 
+- [Why the Political Blame Game Starts Moments After a Shooting](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/) from The Trace
+- [Why Does the Right Falsely Blame Trans People for Mass Shootings?](https://www.thetrace.org/2025/07/mass-shootings-trans-misinformation/) from The Trace 
+- [Charlie Kirk’s Assassination Didn’t Happen in a Vacuum](https://www.thetrace.org/newsletter/charlie-kirks-assassination-didnt-happen-in-a-vacuum/) from The Trace
+- [Trans shooters disinformation surges after Charlie Kirk's death. Some fear retribution.](https://www.usatoday.com/story/news/politics/2025/09/20/charlie-kirk-death-transgender-disinformation/86161156007/) from USA Today 
+
+_Shooting coverage best practices:_
+- [A Journalist’s Guide to Reporting on Mass Shootings](https://nbcuacademy.com/mass-shootings-media/) from NBCU Academy 
+- [Reporting Guide: Covering School Shootings and Gun Violence](https://ewa.org/how-to-cover-the-story/after-covering-nashville-school-shootings-a-reporter-shares-tips) from the Education Writers Association 
+- [Understanding Harmful Reporting](https://www.pcgvr.org/understanding-harmful-reporting/) from the Philadelphia Center for Gun Violence Reporting
+- [Guidance for Getting it Right](https://www.pcgvr.org/guides-for-getting-it-right/) from the Philadelphia Center for Gun Violence Reporting
+- [Gun Violence Data & Best Practices Guide](https://datahub.thetrace.org/resource/the-traces-gun-violence-data-best-practices-guide/) from The Trace 
+- [Visualizing the Future of the Public Safety Beat](https://justjournalism.org/page/image-report) from The Center for Just Journalism 
+
+_Extremism coverage best practices:_
+- [The Oxygen of Amplification: Better Practices for Reporting on Extremists, Antagonists, and Manipulators Online, Proposed Editorial Strategies](https://datasociety.net/wp-content/uploads/2018/05/3-PART-3_Oxygen_of_Amplification_DS-1.pdf) from Data & Society Research Institute
+- [The Oxygen of Amplification: Better Practices for Reporting on Extremists, Antagonists, and Manipulators Online](https://datasociety.net/wp-content/uploads/2018/05/FULLREPORT_Oxygen_of_Amplification_DS.pdf) from Data & Society Research Institute 
+- [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
+- [Political extremism: 5 ways journalists can improve coverage and mitigate harm](https://www.pressclubinstitute.org/2023/02/02/political-extremism-5-ways-journalists-can-improve-coverage-and-reduce-harm/) from National Press Club Journalism Institute
+
+</div>
+
+
 ### reporting on crimes involving trans people { #crimes updated="2024-02-24" }
 When reporting on crimes that involve or could involve trans people, reporters should seek sources beyond law enforcement. Police often provide inaccurate names, gender identities, and pronouns for [victims](https://web.archive.org/web/20220204225313/https://unerased.mic.com/) or those [accused or convicted of crimes](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) who may be transgender. Do due diligence if there is reason to believe a story may involve a trans person (see [_self-identification_](#self-id)), rather than assuming the information given in a police report or press release is correct. 
 
