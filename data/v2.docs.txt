@@ -1,6 +1,6 @@
 [[toc]]
 
-# Stylebook and Coverage Guide { #intro updated="2025–09-23" }
+# Stylebook and Coverage Guide { #intro updated="2026–01-26" }
 
 The Trans Journalists Association’s Stylebook and Coverage Guide is a tool reporters, editors, and other journalists can use to improve news coverage of trans people and the stories that affect them. 
 
@@ -19,6 +19,8 @@ This guide contains the following sections:
 - [**Further Reading**](#section-further-reading)**:** Links to useful resources.
 
 _If you run into a reporting or editing issue that isn’t addressed in this guide — or you’re just trying to figure out how to interpret and apply our guidance — please reach out to our style guide editor at_ [_styleguide@transjournalists.org_](mailto:styleguide@transjournalists.org)_._
+
+_Substantive revisions to this guide are made on a quarterly basis to reflect evolving reporting standards, language, and best practices. Updates made outside of this regular cadence are limited to the correction of clear factual errors. Individual entries display the date they were updated; scroll over an entry to see when it was last revised._
 
 _Last published [[date:DATETIME_FULL]]_
 
@@ -532,10 +534,10 @@ _Data on anti-trans discrimination:_
 
 </div>
 
-## Criminal Justice { #subsection-criminal-justice updated="2025-10-01" }
-### anti-trans misinformation surrounding mass shootings and extremist activities { #shooting-misinformation updated="2025-10-01" }
+## Criminal Justice { #subsection-criminal-justice updated="2025-10-04" }
+### anti-trans misinformation surrounding mass shootings and extremist activities { #shooting-misinformation updated="2025-10-04" }
 
-Right-wing internet users, media outlets, and politicians regularly spread false claims that mass shooting perpetrators are transgender. These claims often start before the release of any substantive information from authorities. This pattern began [after the Uvalde shooting in 2022](https://apnews.com/article/uvalde-school-shooting-government-and-politics-shootings-texas-conspiracy-theories-8d9ac3b61420c6542b11d0da3f0b3a16) and has led to the [harassment](https://www.snopes.com/news/2022/05/25/uvalde-school-shooting-ramos-trans/?collection=419958) of trans [people](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584) [completely](https://www.seattletimes.com/seattle-news/law-justice/seattle-trans-woman-faces-hate-after-being-misidentified-as-charlie-kirks-killer/) [unrelated](https://www.nbcnews.com/nbc-out/out-news/trans-womans-photo-used-spread-baseless-online-theory-texas-shooter-rcna30511) to [the](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584) crimes. In some cases, law enforcement or politicians have complicated this misinformation pattern by releasing [contradictory](https://www.nbcnews.com/feature/nbc-out/details-nashville-shooters-gender-identity-sow-confusion-disinformatio-rcna77424), [unverified](https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/), [purely speculative](https://x.com/RepMTG/status/1970851648273588411), or [ultimately](https://xtramagazine.com/video/anti-trans-misinfo-charlie-kirk-tja-276808) [false information](https://www.cjr.org/analysis/liveblogging-through-it-charlie-kirk-tyler-robinson-misinformation-transgender.php) that initially tied trans perpetrators to shootings as news developed. 
+Right-wing internet users, media outlets, and politicians regularly spread false claims that mass shooting perpetrators are transgender. These claims often start before the release of any substantive information from authorities. This pattern began [after the Uvalde shooting in 2022](https://apnews.com/article/uvalde-school-shooting-government-and-politics-shootings-texas-conspiracy-theories-8d9ac3b61420c6542b11d0da3f0b3a16) and has led to the [harassment](https://www.snopes.com/news/2022/05/25/uvalde-school-shooting-ramos-trans/?collection=419958) of trans [people](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584) [completely](https://www.seattletimes.com/seattle-news/law-justice/seattle-trans-woman-faces-hate-after-being-misidentified-as-charlie-kirks-killer/) [unrelated](https://www.nbcnews.com/nbc-out/out-news/trans-womans-photo-used-spread-baseless-online-theory-texas-shooter-rcna30511) to [the crimes](https://www.nbcnews.com/tech/internet/madison-school-shooting-shooter-natalie-samantha-rupnow-female-trans-rcna184584). In some cases, law enforcement or politicians have complicated this misinformation pattern by releasing [contradictory](https://www.nbcnews.com/feature/nbc-out/details-nashville-shooters-gender-identity-sow-confusion-disinformatio-rcna77424), [unverified](https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/), [purely speculative](https://x.com/RepMTG/status/1970851648273588411), or [ultimately](https://xtramagazine.com/video/anti-trans-misinfo-charlie-kirk-tja-276808) [false information](https://www.cjr.org/analysis/liveblogging-through-it-charlie-kirk-tyler-robinson-misinformation-transgender.php) that initially tied trans perpetrators to shootings as news developed. 
 
 In 2023, then-former President Donald Trump said baselessly that there had been an “incredible rise” in the number of trans shooters, becoming the highest-profile figure to spread this claim. This was [untrue](https://apnews.com/article/fact-check-transgender-nashville-shooting-misinformation-cd62492d066d41e820c138256570978c) then, and it [remains untrue](https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/) now. Anti-trans actors have begun to falsely claim that mass shooters are disproportionately transgender or that transgender people are more likely to commit crimes. Snopes [evaluated these recent claims](https://www.snopes.com/fact-check/transgender-mass-shootings/) and PolitiFact [debunked the numbers behind them](https://www.politifact.com/article/2025/sep/09/trans-people-mass-shootings-gun-violence/); Wired also undermined the statistics used to perpetuate [similar misinformation](https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/). These claims now reliably resurface online when mass shootings occur. 
 
@@ -543,7 +545,7 @@ Further, false notions that transgender people categorically commit more violenc
 
 When journalists credulously circulate claims about shooting perpetrators’ identity or motivations without verification or while the facts are still developing, they can spread misinformation. This can have [tangible consequences](https://apnews.com/article/nashville-school-shooting-transgender-lgbtq-disinformation-6cef2f5909c68993caae9d3123608ec7) for trans people: Some US government officials have [suggested limiting transgender people’s access to guns](https://apnews.com/article/justice-department-ban-trans-gun-owners-trump-e05b489ad64b80af31e376d6d3ef7dfd) or [institutionalizing them](https://www.erininthemorning.com/p/two-republican-congresspeople-call) based on these false premises. 
 
-A hyperfocus on the alleged perpetrator(s) also contradicts best practices for covering mass shootings. [Experts](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/), [researchers](https://pmc.ncbi.nlm.nih.gov/articles/PMC5296697/), and [gun violence reporters](https://nbcuacademy.com/mass-shootings-media/) stress that elevating mass shooters and [seeking reductive motives](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/) for their actions can foment [further](https://pmc.ncbi.nlm.nih.gov/articles/PMC11912226/) [violence](https://www.theguardian.com/us-news/2025/sep/27/fbi-arrest-man-texas-pride-parade). 
+A hyperfocus on the alleged perpetrator(s) also contradicts best practices for covering mass shootings. [Experts](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/), [researchers](https://pmc.ncbi.nlm.nih.gov/articles/PMC5296697/), and [gun violence reporters](https://nbcuacademy.com/mass-shootings-media/) stress that elevating mass shooters and [seeking reductive motives](https://www.thetrace.org/2025/09/charlie-kirk-right-left-politics-blame/) for their actions can [foment](https://pmc.ncbi.nlm.nih.gov/articles/PMC11912226/)f further [violence](https://www.theguardian.com/us-news/2025/sep/27/fbi-arrest-man-texas-pride-parade). 
 
 Journalists covering potential political violence should familiarize themselves with the symbols and language of extremist groups. The slang and shorthand of online extremist spaces, in particular, is often intentionally difficult for outsiders to parse; seemingly straightforward references to identity groups or political beliefs may also be, for example, [video game in-jokes](https://www.polygon.com/charlie-kirk-shooter-helldivers-2-meme-tyler-robinson/) or [obscure memes](https://www.theguardian.com/technology/2025/sep/17/charlie-kirk-suspect-online-memes). Journalists reporting on what may be extremist violence should consult extremism researchers and other relevant experts. This may help avoid errors, corrections, and other breaches of journalistic best practice and public trust. 
 
@@ -566,6 +568,7 @@ _Shooting coverage best practices:_
 - [Reporting Guide: Covering School Shootings and Gun Violence](https://ewa.org/how-to-cover-the-story/after-covering-nashville-school-shootings-a-reporter-shares-tips) from the Education Writers Association 
 - [Understanding Harmful Reporting](https://www.pcgvr.org/understanding-harmful-reporting/) from the Philadelphia Center for Gun Violence Reporting
 - [Guidance for Getting it Right](https://www.pcgvr.org/guides-for-getting-it-right/) from the Philadelphia Center for Gun Violence Reporting
+- [Better Gun Violence Reporting: A Toolkit for Minimizing Harm](https://www.pcgvr.org/TOOLKIT/) from the Philadelphia Center for Gun Violence Reporting
 - [Gun Violence Data & Best Practices Guide](https://datahub.thetrace.org/resource/the-traces-gun-violence-data-best-practices-guide/) from The Trace 
 - [Visualizing the Future of the Public Safety Beat](https://justjournalism.org/page/image-report) from The Center for Just Journalism 
 
@@ -574,6 +577,7 @@ _Extremism coverage best practices:_
 - [The Oxygen of Amplification: Better Practices for Reporting on Extremists, Antagonists, and Manipulators Online](https://datasociety.net/wp-content/uploads/2018/05/FULLREPORT_Oxygen_of_Amplification_DS.pdf) from Data & Society Research Institute 
 - [Reporting on people with extreme views? Ditch the shortcuts.](https://www.poynter.org/reporting-editing/2024/reporting-on-people-with-extreme-views-ditch-the-shortcuts/) from Poynter
 - [Political extremism: 5 ways journalists can improve coverage and mitigate harm](https://www.pressclubinstitute.org/2023/02/02/political-extremism-5-ways-journalists-can-improve-coverage-and-reduce-harm/) from National Press Club Journalism Institute
+- [A harm reduction playbook for covering populists](https://reutersinstitute.politics.ox.ac.uk/harm-reduction-playbook-covering-populists) from Reuters Institute for the Study of Journalism
 
 </div>
 
@@ -627,7 +631,7 @@ _Additional resources:_
 
 </div>
 
-## Health Care { #subsection-health-care updated="2023-08-25" }
+## Health Care { #subsection-health-care updated="2025-04-22" }
 
 ### language around transgender health care { #gender-affirming-care updated="2025-04-22" }
 Health care that trans people seek out as part of their gender transition is, simply, a type of _medical care._ Longer phrases like _gender-affirming care_ are acceptable, as they may provide needed specificity and are widely used by medical providers. Phrasings like _transgender medical care_ or _transgender health care_ may be clearer for a lay audience. Shorthands like _gender health care_, _trans health care_, and _gender care_ are acceptable for headlines or where space is tight. 
@@ -1029,7 +1033,7 @@ A term coined by writer [Trudy on her blog Gradient Lair](https://web.archive.or
 ### transness (n.) { #def-transness updated="2024-04-03" }
 The attribute of being transgender. It is a neutral term comparable to _queerness_: _The painter said their transness inflects their art._ Not to be confused with the loaded euphemism _transgenderism_ (see [_transgenderism_](#transgenderism)).
 
-### transsexual (n., adj.) { #def-transsexual updated="2025-04-18" }
+### transsexual (n., adj.) { #def-transsexual updated="2025-11-01" }
 Once the dominant word to describe someone who wants or seeks transgender medical care, this is now a more niche and intracommunity term. Some consider it outdated or offensive. It may be appropriate to include the word if quoting historical materials, or if someone self-describes in this manner.
 
 ### transvestite (n.) { #def-transvestite updated="2023-08-25" }
